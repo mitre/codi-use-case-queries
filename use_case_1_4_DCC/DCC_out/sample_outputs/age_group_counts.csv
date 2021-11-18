@@ -1,0 +1,223 @@
+yr,age,wt_category,count
+2017,2,Class I Obese,12
+2017,2,Class III Obese,1
+2017,2,Normal,276
+2017,2,Overweight,17
+2017,2,Underweight,128
+2017,3,Class I Obese,71
+2017,3,Class II Obese,10
+2017,3,Class III Obese,1
+2017,3,Normal,493
+2017,3,Overweight,88
+2017,3,Underweight,57
+2017,4,Class I Obese,114
+2017,4,Class II Obese,14
+2017,4,Class III Obese,4
+2017,4,Normal,242
+2017,4,Overweight,114
+2017,4,Underweight,5
+2017,5,Class I Obese,172
+2017,5,Class II Obese,35
+2017,5,Class III Obese,10
+2017,5,Normal,180
+2017,5,Overweight,153
+2017,5,Underweight,5
+2017,6,Class I Obese,202
+2017,6,Class II Obese,35
+2017,6,Class III Obese,15
+2017,6,Normal,114
+2017,6,Overweight,156
+2017,7,Class I Obese,232
+2017,7,Class II Obese,72
+2017,7,Class III Obese,18
+2017,7,Normal,63
+2017,7,Overweight,169
+2017,8,Class I Obese,116
+2017,8,Class II Obese,39
+2017,8,Class III Obese,21
+2017,8,Normal,19
+2017,8,Overweight,83
+2017,9,Class I Obese,13
+2017,9,Class II Obese,7
+2017,9,Class III Obese,4
+2017,9,Normal,2
+2017,9,Overweight,6
+2017,10,Class I Obese,15
+2017,10,Class II Obese,4
+2017,10,Overweight,5
+2017,11,Class I Obese,10
+2017,11,Class II Obese,4
+2017,11,Class III Obese,4
+2017,11,Overweight,6
+2017,12,Class I Obese,5
+2017,12,Class II Obese,2
+2017,12,Class III Obese,5
+2017,12,Overweight,2
+2017,13,Class I Obese,5
+2017,13,Class II Obese,6
+2017,13,Class III Obese,5
+2017,13,Overweight,3
+2017,14,Class I Obese,4
+2017,14,Class II Obese,4
+2017,14,Class III Obese,4
+2017,14,Overweight,1
+2017,15,Class I Obese,3
+2017,15,Class II Obese,2
+2017,15,Class III Obese,7
+2017,16,Class I Obese,1
+2017,16,Class II Obese,2
+2017,16,Class III Obese,1
+2017,17,Class III Obese,1
+2018,2,Class I Obese,2
+2018,2,Normal,34
+2018,2,Overweight,4
+2018,2,Underweight,19
+2018,3,Class I Obese,38
+2018,3,Class II Obese,3
+2018,3,Class III Obese,2
+2018,3,Normal,284
+2018,3,Overweight,67
+2018,3,Underweight,29
+2018,4,Class I Obese,118
+2018,4,Class II Obese,19
+2018,4,Class III Obese,3
+2018,4,Normal,197
+2018,4,Overweight,121
+2018,4,Underweight,5
+2018,5,Class I Obese,160
+2018,5,Class II Obese,32
+2018,5,Class III Obese,13
+2018,5,Normal,156
+2018,5,Overweight,153
+2018,5,Underweight,4
+2018,6,Class I Obese,216
+2018,6,Class II Obese,44
+2018,6,Class III Obese,15
+2018,6,Normal,110
+2018,6,Overweight,176
+2018,7,Class I Obese,227
+2018,7,Class II Obese,55
+2018,7,Class III Obese,20
+2018,7,Normal,64
+2018,7,Overweight,171
+2018,8,Class I Obese,223
+2018,8,Class II Obese,82
+2018,8,Class III Obese,35
+2018,8,Normal,41
+2018,8,Overweight,171
+2018,9,Class I Obese,111
+2018,9,Class II Obese,53
+2018,9,Class III Obese,25
+2018,9,Normal,11
+2018,9,Overweight,69
+2018,10,Class I Obese,13
+2018,10,Class II Obese,6
+2018,10,Class III Obese,4
+2018,10,Overweight,8
+2018,11,Class I Obese,11
+2018,11,Class II Obese,8
+2018,11,Class III Obese,2
+2018,11,Overweight,4
+2018,12,Class I Obese,9
+2018,12,Class II Obese,3
+2018,12,Class III Obese,5
+2018,12,Overweight,3
+2018,13,Class I Obese,8
+2018,13,Class II Obese,3
+2018,13,Class III Obese,11
+2018,13,Normal,1
+2018,13,Overweight,1
+2018,14,Class I Obese,3
+2018,14,Class II Obese,2
+2018,14,Class III Obese,3
+2018,14,Overweight,3
+2018,15,Class I Obese,1
+2018,15,Class II Obese,4
+2018,15,Class III Obese,6
+2018,15,Overweight,1
+2018,15,Underweight,1
+2018,16,Class I Obese,2
+2018,16,Class II Obese,1
+2018,16,Class III Obese,5
+2018,17,Class I Obese,1
+2018,17,Class II Obese,3
+2018,17,Class III Obese,1
+2019,2,Class I Obese,1
+2019,2,Normal,7
+2019,2,Overweight,3
+2019,2,Underweight,2
+2019,3,Class I Obese,3
+2019,3,Normal,32
+2019,3,Overweight,1
+2019,3,Underweight,4
+2019,4,Class I Obese,66
+2019,4,Class II Obese,7
+2019,4,Class III Obese,3
+2019,4,Normal,144
+2019,4,Overweight,79
+2019,4,Underweight,8
+2019,5,Class I Obese,154
+2019,5,Class II Obese,33
+2019,5,Class III Obese,13
+2019,5,Normal,158
+2019,5,Overweight,158
+2019,5,Underweight,5
+2019,6,Class I Obese,199
+2019,6,Class II Obese,43
+2019,6,Class III Obese,18
+2019,6,Normal,99
+2019,6,Overweight,187
+2019,6,Underweight,2
+2019,7,Class I Obese,209
+2019,7,Class II Obese,72
+2019,7,Class III Obese,16
+2019,7,Normal,72
+2019,7,Overweight,160
+2019,8,Class I Obese,222
+2019,8,Class II Obese,73
+2019,8,Class III Obese,23
+2019,8,Normal,46
+2019,8,Overweight,152
+2019,9,Class I Obese,227
+2019,9,Class II Obese,105
+2019,9,Class III Obese,49
+2019,9,Normal,33
+2019,9,Overweight,142
+2019,10,Class I Obese,113
+2019,10,Class II Obese,61
+2019,10,Class III Obese,34
+2019,10,Normal,11
+2019,10,Overweight,66
+2019,11,Class I Obese,18
+2019,11,Class II Obese,10
+2019,11,Class III Obese,5
+2019,11,Normal,1
+2019,11,Overweight,5
+2019,12,Class I Obese,15
+2019,12,Class II Obese,8
+2019,12,Class III Obese,1
+2019,12,Overweight,3
+2019,13,Class I Obese,11
+2019,13,Class II Obese,6
+2019,13,Class III Obese,4
+2019,13,Overweight,2
+2019,14,Class I Obese,3
+2019,14,Class II Obese,3
+2019,14,Class III Obese,11
+2019,14,Overweight,1
+2019,15,Class I Obese,1
+2019,15,Class II Obese,3
+2019,15,Class III Obese,2
+2019,15,Overweight,1
+2019,16,Class I Obese,2
+2019,16,Class II Obese,1
+2019,16,Class III Obese,4
+2019,17,Class I Obese,1
+2019,17,Class II Obese,2
+2019,17,Class III Obese,2
+2019,17,Normal,1
+2019,18,Class I Obese,2
+2019,18,Class II Obese,2
+2019,18,Overweight,1
+2019,19,Class III Obese,1
+2019,19,Overweight,1

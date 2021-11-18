@@ -1,0 +1,41 @@
+yr,asthma,wt_category,count
+2017,0,Class I Obese,969
+2017,0,Class II Obese,234
+2017,0,Class III Obese,101
+2017,0,Normal,1320
+2017,0,Overweight,792
+2017,0,Underweight,168
+2017,1,Class I Obese,6
+2017,1,Class II Obese,2
+2017,1,Normal,55
+2017,1,Overweight,11
+2017,1,Underweight,14
+2017,NA,Normal,15
+2017,NA,Underweight,13
+2018,0,Class I Obese,1132
+2018,0,Class II Obese,316
+2018,0,Class III Obese,149
+2018,0,Normal,835
+2018,0,Overweight,936
+2018,0,Underweight,45
+2018,1,Class I Obese,9
+2018,1,Class II Obese,2
+2018,1,Class III Obese,1
+2018,1,Normal,43
+2018,1,Overweight,16
+2018,1,Underweight,2
+2018,NA,Class I Obese,2
+2018,NA,Normal,20
+2018,NA,Overweight,1
+2018,NA,Underweight,11
+2019,0,Class I Obese,1234
+2019,0,Class II Obese,422
+2019,0,Class III Obese,186
+2019,0,Normal,580
+2019,0,Overweight,939
+2019,0,Underweight,20
+2019,1,Class I Obese,13
+2019,1,Class II Obese,7
+2019,1,Normal,24
+2019,1,Overweight,24
+2019,1,Underweight,1

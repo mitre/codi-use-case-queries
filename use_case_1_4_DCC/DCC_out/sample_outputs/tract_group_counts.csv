@@ -1,0 +1,4875 @@
+yr,TRACT,wt_category,count
+2017,102,Class I Obese,1
+2017,102,Normal,1
+2017,102,Overweight,3
+2017,201,Normal,4
+2017,201,Underweight,1
+2017,202,Class II Obese,1
+2017,202,Normal,1
+2017,202,Overweight,2
+2017,301,Class I Obese,4
+2017,301,Normal,2
+2017,301,Overweight,1
+2017,303,Class I Obese,1
+2017,303,Normal,1
+2017,303,Overweight,1
+2017,402,Class I Obese,1
+2017,402,Normal,1
+2017,402,Overweight,1
+2017,501,Overweight,1
+2017,502,Class I Obese,1
+2017,502,Normal,1
+2017,502,Overweight,3
+2017,600,Normal,2
+2017,600,Overweight,1
+2017,702,Class I Obese,1
+2017,702,Normal,4
+2017,800,Overweight,2
+2017,902,Class I Obese,1
+2017,902,Class II Obese,1
+2017,902,Normal,1
+2017,902,Overweight,1
+2017,903,Class I Obese,1
+2017,903,Normal,2
+2017,903,Overweight,1
+2017,904,Class I Obese,1
+2017,904,Normal,1
+2017,905,Class I Obese,2
+2017,905,Normal,2
+2017,905,Overweight,1
+2017,1000,Class I Obese,1
+2017,1000,Normal,2
+2017,1101,Class I Obese,2
+2017,1101,Normal,1
+2017,1101,Overweight,1
+2017,1102,Class I Obese,2
+2017,1102,Normal,1
+2017,1102,Underweight,1
+2017,1301,Class I Obese,3
+2017,1301,Overweight,2
+2017,1302,Class II Obese,1
+2017,1302,Normal,3
+2017,1302,Underweight,2
+2017,1401,Class II Obese,1
+2017,1401,Underweight,1
+2017,1402,Class I Obese,1
+2017,1402,Underweight,1
+2017,1403,Class II Obese,1
+2017,1403,Normal,5
+2017,1500,Class I Obese,1
+2017,1500,Normal,6
+2017,1500,Overweight,4
+2017,1600,Class I Obese,2
+2017,1600,Normal,1
+2017,1600,Overweight,2
+2017,1600,Underweight,1
+2017,1701,Class I Obese,1
+2017,1702,Class I Obese,2
+2017,1702,Normal,3
+2017,1800,Class I Obese,1
+2017,1800,Overweight,1
+2017,1901,Class I Obese,1
+2017,1901,Normal,3
+2017,1902,Class I Obese,2
+2017,1902,Class II Obese,1
+2017,1902,Normal,8
+2017,1902,Overweight,7
+2017,1902,Underweight,1
+2017,1906,Class I Obese,1
+2017,1906,Class II Obese,1
+2017,1906,Normal,4
+2017,1906,Overweight,2
+2017,1907,Class I Obese,5
+2017,1907,Class II Obese,1
+2017,1907,Class III Obese,1
+2017,1907,Normal,8
+2017,1907,Overweight,2
+2017,1908,Class I Obese,2
+2017,1908,Class III Obese,1
+2017,1908,Normal,3
+2017,1908,Overweight,2
+2017,2000,Class I Obese,3
+2017,2000,Normal,1
+2017,2000,Overweight,2
+2017,2005,Overweight,1
+2017,2005,Underweight,1
+2017,2006,Class I Obese,1
+2017,2006,Normal,1
+2017,2006,Overweight,1
+2017,2006,Underweight,1
+2017,2007,Normal,4
+2017,2008,Class I Obese,1
+2017,2008,Class II Obese,2
+2017,2009,Class I Obese,4
+2017,2009,Class III Obese,1
+2017,2009,Normal,6
+2017,2009,Overweight,2
+2017,2009,Underweight,1
+2017,2010,Class I Obese,8
+2017,2010,Class II Obese,3
+2017,2010,Normal,6
+2017,2010,Underweight,1
+2017,2012,Normal,1
+2017,2017,Class I Obese,1
+2017,2017,Class III Obese,1
+2017,2021,Class II Obese,1
+2017,2100,Class I Obese,1
+2017,2100,Normal,5
+2017,2100,Overweight,4
+2017,2103,Class I Obese,5
+2017,2103,Class II Obese,3
+2017,2103,Class III Obese,1
+2017,2103,Normal,4
+2017,2103,Overweight,6
+2017,2300,Overweight,2
+2017,2402,Normal,1
+2017,2403,Class I Obese,1
+2017,2403,Normal,2
+2017,2403,Overweight,1
+2017,2502,Class II Obese,1
+2017,2502,Normal,2
+2017,2601,Normal,1
+2017,2602,Overweight,2
+2017,2701,Normal,1
+2017,2701,Overweight,1
+2017,2702,Normal,3
+2017,2801,Overweight,1
+2017,2802,Overweight,2
+2017,2901,Class II Obese,1
+2017,2901,Normal,4
+2017,2902,Class I Obese,1
+2017,2902,Normal,1
+2017,3001,Class I Obese,1
+2017,3001,Normal,4
+2017,3001,Overweight,1
+2017,3003,Normal,1
+2017,3004,Class I Obese,2
+2017,3004,Normal,1
+2017,3004,Overweight,1
+2017,3102,Class I Obese,1
+2017,3102,Normal,1
+2017,3102,Overweight,1
+2017,3201,Class I Obese,2
+2017,3201,Class II Obese,2
+2017,3201,Class III Obese,1
+2017,3201,Normal,1
+2017,3202,Normal,1
+2017,3202,Underweight,1
+2017,3203,Class I Obese,1
+2017,3203,Class III Obese,1
+2017,3203,Normal,1
+2017,3203,Overweight,2
+2017,3300,Class I Obese,2
+2017,3300,Normal,2
+2017,3401,Class I Obese,1
+2017,3401,Normal,2
+2017,3401,Overweight,2
+2017,3402,Class I Obese,1
+2017,3402,Class II Obese,1
+2017,3402,Normal,1
+2017,3402,Overweight,2
+2017,3500,Class I Obese,3
+2017,3500,Normal,3
+2017,3500,Overweight,4
+2017,3500,Underweight,1
+2017,3601,Class III Obese,1
+2017,3601,Overweight,1
+2017,3602,Class I Obese,2
+2017,3602,Class II Obese,1
+2017,3602,Normal,2
+2017,3602,Overweight,1
+2017,3603,Class I Obese,1
+2017,3603,Normal,3
+2017,3603,Overweight,3
+2017,3701,Class I Obese,2
+2017,3701,Normal,1
+2017,3701,Overweight,1
+2017,3701,Underweight,1
+2017,3702,Class I Obese,2
+2017,3702,Normal,2
+2017,3703,Normal,2
+2017,3800,Class I Obese,2
+2017,3800,Class II Obese,1
+2017,3800,Normal,2
+2017,3800,Overweight,1
+2017,3901,Normal,3
+2017,3901,Overweight,2
+2017,3902,Normal,4
+2017,3902,Overweight,2
+2017,4002,Class I Obese,1
+2017,4002,Normal,2
+2017,4002,Overweight,1
+2017,4003,Class I Obese,1
+2017,4003,Class II Obese,1
+2017,4003,Class III Obese,1
+2017,4003,Normal,1
+2017,4004,Class I Obese,1
+2017,4004,Normal,1
+2017,4004,Overweight,1
+2017,4005,Class II Obese,1
+2017,4005,Normal,1
+2017,4006,Class I Obese,1
+2017,4006,Normal,1
+2017,4101,Class I Obese,4
+2017,4101,Class II Obese,1
+2017,4101,Normal,1
+2017,4101,Overweight,2
+2017,4102,Class I Obese,3
+2017,4103,Normal,2
+2017,4103,Overweight,1
+2017,4104,Normal,2
+2017,4104,Overweight,2
+2017,4106,Class I Obese,8
+2017,4106,Class II Obese,3
+2017,4106,Normal,7
+2017,4106,Overweight,4
+2017,4107,Class I Obese,3
+2017,4107,Normal,5
+2017,4107,Overweight,5
+2017,4201,Class I Obese,1
+2017,4201,Normal,4
+2017,4201,Overweight,1
+2017,4201,Underweight,1
+2017,4202,Class I Obese,1
+2017,4202,Class II Obese,1
+2017,4202,Normal,1
+2017,4202,Overweight,1
+2017,4301,Class II Obese,1
+2017,4301,Normal,2
+2017,4302,Class II Obese,1
+2017,4302,Normal,1
+2017,4302,Overweight,1
+2017,4303,Class I Obese,1
+2017,4303,Normal,5
+2017,4303,Overweight,1
+2017,4304,Class I Obese,2
+2017,4304,Normal,1
+2017,4304,Overweight,1
+2017,4304,Underweight,1
+2017,4306,Class I Obese,5
+2017,4306,Class III Obese,1
+2017,4306,Normal,1
+2017,4306,Overweight,2
+2017,4403,Class I Obese,2
+2017,4403,Normal,1
+2017,4404,Normal,5
+2017,4405,Class I Obese,6
+2017,4405,Class III Obese,3
+2017,4405,Normal,13
+2017,4405,Overweight,3
+2017,4405,Underweight,1
+2017,4503,Normal,2
+2017,4504,Normal,2
+2017,4505,Overweight,1
+2017,4506,Overweight,1
+2017,4601,Class I Obese,2
+2017,4601,Class II Obese,1
+2017,4601,Class III Obese,1
+2017,4601,Normal,2
+2017,4602,Class I Obese,1
+2017,4602,Normal,2
+2017,4602,Overweight,1
+2017,4700,Class I Obese,1
+2017,4700,Normal,2
+2017,4700,Overweight,2
+2017,4700,Underweight,1
+2017,4952,Normal,1
+2017,5001,Class I Obese,2
+2017,5001,Normal,1
+2017,5002,Class I Obese,2
+2017,5002,Normal,1
+2017,5002,Overweight,2
+2017,5102,Class I Obese,3
+2017,5102,Normal,2
+2017,5102,Overweight,1
+2017,5102,Underweight,1
+2017,5104,Overweight,1
+2017,5200,Class I Obese,3
+2017,5200,Normal,3
+2017,5300,Class I Obese,1
+2017,5300,Overweight,1
+2017,5502,Class I Obese,4
+2017,5502,Class II Obese,1
+2017,5502,Normal,1
+2017,5502,Overweight,1
+2017,5503,Normal,2
+2017,5503,Overweight,1
+2017,5551,Class I Obese,1
+2017,5551,Class II Obese,3
+2017,5551,Class III Obese,1
+2017,5551,Normal,3
+2017,5551,Overweight,3
+2017,5552,Class I Obese,3
+2017,5552,Normal,1
+2017,5553,Class I Obese,1
+2017,5611,Class I Obese,3
+2017,5611,Class II Obese,2
+2017,5611,Class III Obese,1
+2017,5611,Normal,3
+2017,5611,Underweight,1
+2017,5612,Class I Obese,6
+2017,5612,Class II Obese,3
+2017,5612,Normal,2
+2017,5612,Overweight,3
+2017,5614,Class I Obese,1
+2017,5614,Normal,2
+2017,5614,Overweight,1
+2017,5619,Class I Obese,5
+2017,5619,Normal,6
+2017,5619,Overweight,3
+2017,5620,Normal,1
+2017,5621,Normal,2
+2017,5621,Overweight,1
+2017,5622,Class II Obese,1
+2017,5622,Class III Obese,1
+2017,5622,Normal,4
+2017,5622,Overweight,2
+2017,5623,Overweight,1
+2017,5624,Class I Obese,1
+2017,5625,Class I Obese,2
+2017,5625,Normal,3
+2017,5625,Overweight,2
+2017,5626,Class I Obese,1
+2017,5626,Overweight,2
+2017,5627,Class I Obese,3
+2017,5627,Class II Obese,1
+2017,5627,Normal,2
+2017,5627,Overweight,3
+2017,5628,Class I Obese,1
+2017,5628,Normal,3
+2017,5628,Overweight,2
+2017,5628,Underweight,1
+2017,5629,Class I Obese,6
+2017,5629,Normal,2
+2017,5629,Overweight,4
+2017,5629,Underweight,1
+2017,5630,Class I Obese,1
+2017,5630,Normal,2
+2017,5631,Class I Obese,1
+2017,5631,Normal,1
+2017,5632,Class I Obese,1
+2017,5632,Class II Obese,1
+2017,5632,Normal,3
+2017,5632,Overweight,3
+2017,5633,Normal,2
+2017,5634,Class I Obese,3
+2017,5634,Class II Obese,1
+2017,5634,Overweight,1
+2017,5635,Class I Obese,2
+2017,5635,Normal,2
+2017,5635,Overweight,4
+2017,5635,Underweight,2
+2017,5636,Class I Obese,3
+2017,5636,Class II Obese,1
+2017,5636,Normal,4
+2017,5636,Overweight,4
+2017,5700,Class I Obese,1
+2017,5700,Normal,1
+2017,5800,Normal,1
+2017,5951,Class I Obese,1
+2017,5951,Class II Obese,1
+2017,5951,Underweight,1
+2017,5952,Normal,1
+2017,5952,Overweight,1
+2017,6000,Class I Obese,1
+2017,6000,Class II Obese,1
+2017,6000,Overweight,1
+2017,6100,Normal,1
+2017,6200,Normal,1
+2017,6300,Normal,1
+2017,6400,Class II Obese,3
+2017,6400,Normal,1
+2017,6400,Underweight,1
+2017,6501,Class I Obese,2
+2017,6601,Class I Obese,2
+2017,6601,Class II Obese,1
+2017,6601,Normal,2
+2017,6603,Class I Obese,1
+2017,6603,Overweight,1
+2017,6604,Class I Obese,1
+2017,6604,Overweight,7
+2017,6701,Class II Obese,1
+2017,6701,Normal,2
+2017,6701,Underweight,1
+2017,6704,Class I Obese,8
+2017,6704,Class II Obese,2
+2017,6704,Normal,8
+2017,6704,Overweight,3
+2017,6704,Underweight,2
+2017,6705,Class I Obese,4
+2017,6705,Class II Obese,2
+2017,6705,Normal,5
+2017,6705,Overweight,6
+2017,6706,Class I Obese,2
+2017,6706,Class II Obese,1
+2017,6706,Normal,2
+2017,6706,Overweight,2
+2017,6706,Underweight,2
+2017,6707,Class II Obese,1
+2017,6707,Class III Obese,2
+2017,6707,Normal,5
+2017,6707,Overweight,1
+2017,6708,Class I Obese,1
+2017,6708,Class III Obese,1
+2017,6708,Normal,3
+2017,6709,Class I Obese,2
+2017,6709,Class III Obese,1
+2017,6709,Normal,2
+2017,6709,Overweight,3
+2017,6711,Class I Obese,5
+2017,6711,Class II Obese,1
+2017,6711,Normal,3
+2017,6711,Overweight,1
+2017,6712,Class I Obese,4
+2017,6712,Class III Obese,2
+2017,6712,Normal,7
+2017,6712,Overweight,2
+2017,6712,Underweight,1
+2017,6713,Overweight,1
+2017,6804,Class I Obese,1
+2017,6804,Class III Obese,1
+2017,6804,Normal,3
+2017,6804,Overweight,1
+2017,6808,Class I Obese,3
+2017,6808,Class III Obese,1
+2017,6808,Normal,3
+2017,6808,Overweight,2
+2017,6808,Underweight,1
+2017,6809,Class III Obese,1
+2017,6809,Normal,3
+2017,6809,Overweight,2
+2017,6810,Normal,3
+2017,6810,Overweight,1
+2017,6810,Underweight,1
+2017,6811,Class I Obese,2
+2017,6811,Normal,2
+2017,6812,Normal,2
+2017,6812,Overweight,1
+2017,6813,Normal,2
+2017,6813,Overweight,1
+2017,6814,Class I Obese,2
+2017,6814,Normal,3
+2017,6814,Overweight,4
+2017,6814,Underweight,1
+2017,6815,Class I Obese,2
+2017,6815,Class II Obese,1
+2017,6815,Class III Obese,1
+2017,6815,Normal,1
+2017,6815,Overweight,1
+2017,6854,Class I Obese,12
+2017,6854,Class II Obese,2
+2017,6854,Normal,7
+2017,6854,Overweight,9
+2017,6854,Underweight,3
+2017,6855,Class I Obese,6
+2017,6855,Class II Obese,2
+2017,6855,Normal,7
+2017,6855,Overweight,3
+2017,6856,Class I Obese,11
+2017,6856,Class II Obese,3
+2017,6856,Normal,16
+2017,6856,Overweight,3
+2017,6856,Underweight,5
+2017,6858,Class I Obese,2
+2017,6858,Class II Obese,1
+2017,6858,Normal,2
+2017,6901,Class I Obese,1
+2017,6901,Class II Obese,1
+2017,6901,Normal,1
+2017,6901,Overweight,2
+2017,7006,Class III Obese,1
+2017,7006,Normal,2
+2017,7006,Overweight,2
+2017,7013,Class I Obese,1
+2017,7037,Class I Obese,1
+2017,7037,Overweight,1
+2017,7088,Class I Obese,1
+2017,7088,Class II Obese,1
+2017,7088,Normal,3
+2017,7088,Overweight,1
+2017,7089,Class I Obese,1
+2017,7089,Class II Obese,1
+2017,7089,Underweight,1
+2017,7101,Class I Obese,2
+2017,7101,Class II Obese,2
+2017,7101,Normal,3
+2017,7101,Overweight,1
+2017,7101,Underweight,1
+2017,7103,Class I Obese,6
+2017,7103,Class III Obese,1
+2017,7103,Normal,8
+2017,7103,Overweight,5
+2017,7103,Underweight,1
+2017,7104,Class I Obese,10
+2017,7104,Class II Obese,4
+2017,7104,Class III Obese,1
+2017,7104,Normal,15
+2017,7104,Overweight,7
+2017,7104,Underweight,1
+2017,7105,Class I Obese,3
+2017,7105,Class II Obese,3
+2017,7105,Class III Obese,1
+2017,7105,Normal,8
+2017,7105,Overweight,2
+2017,7105,Underweight,1
+2017,7106,Class I Obese,3
+2017,7106,Class III Obese,1
+2017,7106,Normal,4
+2017,7106,Overweight,3
+2017,7106,Underweight,1
+2017,7107,Class I Obese,1
+2017,7107,Class II Obese,2
+2017,7107,Normal,3
+2017,7107,Overweight,1
+2017,7107,Underweight,1
+2017,7201,Class I Obese,1
+2017,7201,Class II Obese,1
+2017,7201,Normal,2
+2017,7202,Class III Obese,1
+2017,7202,Normal,5
+2017,7202,Overweight,2
+2017,7202,Underweight,1
+2017,7301,Class I Obese,1
+2017,7302,Class I Obese,1
+2017,7302,Normal,2
+2017,7302,Overweight,1
+2017,7400,Class I Obese,1
+2017,7400,Normal,3
+2017,7500,Class I Obese,1
+2017,7500,Normal,1
+2017,7500,Overweight,1
+2017,7600,Class I Obese,2
+2017,7702,Normal,3
+2017,7702,Overweight,1
+2017,7702,Underweight,1
+2017,7703,Class I Obese,2
+2017,7703,Normal,3
+2017,7703,Overweight,2
+2017,7704,Normal,1
+2017,7801,Class I Obese,1
+2017,7900,Class I Obese,3
+2017,7900,Normal,1
+2017,7900,Overweight,1
+2017,7900,Underweight,1
+2017,8000,Class I Obese,2
+2017,8000,Normal,3
+2017,8000,Overweight,1
+2017,8100,Class I Obese,2
+2017,8100,Normal,2
+2017,8100,Overweight,2
+2017,8200,Class I Obese,2
+2017,8200,Normal,4
+2017,8200,Overweight,1
+2017,8304,Overweight,1
+2017,8306,Class I Obese,1
+2017,8308,Class I Obese,1
+2017,8308,Normal,3
+2017,8308,Overweight,2
+2017,8309,Class I Obese,2
+2017,8309,Normal,3
+2017,8309,Overweight,2
+2017,8312,Class I Obese,1
+2017,8312,Normal,1
+2017,8353,Class I Obese,10
+2017,8353,Class II Obese,2
+2017,8353,Normal,16
+2017,8353,Overweight,14
+2017,8353,Underweight,3
+2017,8387,Class I Obese,1
+2017,8387,Overweight,1
+2017,8387,Underweight,1
+2017,8388,Normal,1
+2017,8401,Class I Obese,11
+2017,8401,Class II Obese,2
+2017,8401,Class III Obese,2
+2017,8401,Normal,13
+2017,8401,Overweight,7
+2017,8401,Underweight,1
+2017,8402,Class I Obese,3
+2017,8402,Class II Obese,1
+2017,8402,Underweight,1
+2017,8505,Class I Obese,1
+2017,8505,Normal,2
+2017,8505,Overweight,2
+2017,8506,Class I Obese,1
+2017,8506,Normal,2
+2017,8506,Overweight,1
+2017,8506,Underweight,1
+2017,8507,Normal,1
+2017,8507,Overweight,1
+2017,8508,Normal,1
+2017,8508,Underweight,1
+2017,8523,Class I Obese,12
+2017,8523,Class II Obese,4
+2017,8523,Class III Obese,6
+2017,8523,Normal,29
+2017,8523,Overweight,15
+2017,8523,Underweight,3
+2017,8524,Class I Obese,3
+2017,8524,Normal,2
+2017,8524,Overweight,2
+2017,8526,Class I Obese,2
+2017,8526,Class II Obese,1
+2017,8526,Class III Obese,1
+2017,8526,Normal,2
+2017,8526,Overweight,3
+2017,8529,Class I Obese,1
+2017,8529,Normal,1
+2017,8529,Overweight,2
+2017,8529,Underweight,2
+2017,8533,Class I Obese,2
+2017,8533,Normal,4
+2017,8534,Normal,1
+2017,8534,Overweight,2
+2017,8535,Class I Obese,3
+2017,8535,Class III Obese,1
+2017,8535,Normal,5
+2017,8535,Overweight,3
+2017,8536,Normal,2
+2017,8537,Class I Obese,2
+2017,8537,Class II Obese,1
+2017,8537,Normal,1
+2017,8537,Overweight,2
+2017,8537,Underweight,1
+2017,8539,Class I Obese,2
+2017,8539,Normal,1
+2017,8540,Class I Obese,2
+2017,8540,Class II Obese,1
+2017,8540,Class III Obese,2
+2017,8540,Normal,4
+2017,8540,Overweight,3
+2017,8540,Underweight,1
+2017,8541,Class I Obese,2
+2017,8541,Normal,3
+2017,8541,Overweight,3
+2017,8542,Normal,2
+2017,8542,Overweight,2
+2017,8542,Underweight,1
+2017,8543,Class I Obese,1
+2017,8543,Normal,2
+2017,8543,Overweight,2
+2017,8545,Normal,1
+2017,8545,Overweight,3
+2017,8546,Class I Obese,1
+2017,8547,Class I Obese,1
+2017,8548,Class I Obese,2
+2017,8548,Normal,1
+2017,8548,Overweight,1
+2017,8549,Class I Obese,1
+2017,8549,Normal,1
+2017,8550,Class I Obese,2
+2017,8550,Class II Obese,2
+2017,8550,Normal,4
+2017,8551,Class I Obese,2
+2017,8551,Normal,5
+2017,8551,Overweight,1
+2017,8551,Underweight,1
+2017,8603,Class I Obese,1
+2017,8606,Normal,1
+2017,8705,Class I Obese,1
+2017,8705,Overweight,1
+2017,8709,Class I Obese,1
+2017,8709,Class II Obese,1
+2017,8709,Normal,2
+2017,8709,Underweight,1
+2017,8801,Overweight,1
+2017,8802,Class I Obese,3
+2017,8802,Class II Obese,1
+2017,8802,Class III Obese,1
+2017,8802,Normal,4
+2017,8802,Overweight,4
+2017,8802,Underweight,1
+2017,8901,Class I Obese,2
+2017,8901,Normal,1
+2017,8901,Overweight,2
+2017,9001,Class I Obese,1
+2017,9001,Class II Obese,1
+2017,9001,Normal,1
+2017,9002,Normal,3
+2017,9101,Class I Obese,1
+2017,9101,Normal,1
+2017,9103,Class I Obese,6
+2017,9103,Normal,4
+2017,9103,Overweight,1
+2017,9104,Normal,1
+2017,9202,Class I Obese,2
+2017,9202,Overweight,1
+2017,9203,Class I Obese,2
+2017,9203,Normal,3
+2017,9203,Overweight,2
+2017,9203,Underweight,1
+2017,9204,Normal,2
+2017,9204,Overweight,1
+2017,9207,Normal,2
+2017,9304,Class I Obese,3
+2017,9304,Class II Obese,1
+2017,9304,Normal,1
+2017,9306,Class I Obese,1
+2017,9307,Normal,1
+2017,9308,Class I Obese,1
+2017,9308,Class II Obese,1
+2017,9308,Normal,1
+2017,9308,Overweight,1
+2017,9310,Class I Obese,1
+2017,9310,Normal,2
+2017,9316,Class I Obese,1
+2017,9316,Overweight,3
+2017,9318,Class I Obese,1
+2017,9319,Class I Obese,1
+2017,9320,Class I Obese,1
+2017,9320,Class II Obese,1
+2017,9321,Normal,2
+2017,9322,Overweight,1
+2017,9323,Class I Obese,1
+2017,9323,Overweight,1
+2017,9325,Class I Obese,1
+2017,9325,Normal,2
+2017,9325,Overweight,1
+2017,9327,Class I Obese,1
+2017,9327,Normal,1
+2017,9401,Class I Obese,2
+2017,9401,Normal,2
+2017,9401,Overweight,3
+2017,9406,Class I Obese,2
+2017,9406,Normal,2
+2017,9406,Overweight,1
+2017,9407,Class I Obese,1
+2017,9408,Class I Obese,2
+2017,9408,Normal,3
+2017,9408,Overweight,3
+2017,9409,Class I Obese,2
+2017,9409,Normal,1
+2017,9409,Overweight,1
+2017,9410,Class I Obese,1
+2017,9410,Normal,3
+2017,9410,Overweight,1
+2017,9411,Class I Obese,1
+2017,9501,Normal,1
+2017,9502,Class I Obese,1
+2017,9502,Class II Obese,3
+2017,9502,Normal,2
+2017,9553,Class I Obese,2
+2017,9553,Normal,5
+2017,9553,Overweight,2
+2017,9603,Overweight,1
+2017,9603,Underweight,1
+2017,9604,Class I Obese,1
+2017,9604,Normal,1
+2017,9606,Class I Obese,1
+2017,9606,Normal,1
+2017,9607,Class II Obese,1
+2017,9607,Class III Obese,1
+2017,9607,Normal,2
+2017,9607,Overweight,2
+2017,9607,Underweight,1
+2017,9608,Class II Obese,2
+2017,9608,Normal,1
+2017,9751,Class I Obese,3
+2017,9751,Normal,3
+2017,9751,Overweight,1
+2017,9752,Class I Obese,1
+2017,9752,Normal,1
+2017,9752,Overweight,2
+2017,9806,Class I Obese,4
+2017,9806,Normal,2
+2017,9808,Class I Obese,20
+2017,9808,Class II Obese,7
+2017,9808,Class III Obese,2
+2017,9808,Normal,28
+2017,9808,Overweight,7
+2017,9808,Underweight,4
+2017,9815,Class I Obese,5
+2017,9815,Class III Obese,1
+2017,9815,Normal,4
+2017,9815,Overweight,1
+2017,9824,Class I Obese,1
+2017,9824,Class II Obese,1
+2017,9827,Class I Obese,1
+2017,9827,Class II Obese,1
+2017,9827,Normal,1
+2017,9827,Overweight,1
+2017,9828,Class I Obese,4
+2017,9828,Class II Obese,1
+2017,9828,Normal,2
+2017,9828,Overweight,3
+2017,9829,Class I Obese,1
+2017,9829,Class II Obese,1
+2017,9829,Normal,7
+2017,9829,Overweight,1
+2017,9831,Normal,1
+2017,9832,Normal,1
+2017,9832,Overweight,1
+2017,9832,Underweight,1
+2017,9833,Class I Obese,2
+2017,9833,Normal,3
+2017,9834,Normal,3
+2017,9834,Underweight,1
+2017,9835,Normal,1
+2017,9835,Overweight,2
+2017,9836,Normal,1
+2017,9836,Overweight,3
+2017,9837,Class I Obese,5
+2017,9837,Class II Obese,1
+2017,9837,Normal,7
+2017,9838,Class I Obese,1
+2017,9838,Normal,1
+2017,9838,Overweight,2
+2017,9839,Normal,1
+2017,9839,Overweight,1
+2017,9840,Class I Obese,1
+2017,9840,Normal,3
+2017,9841,Normal,2
+2017,9843,Class I Obese,2
+2017,9843,Overweight,1
+2017,9845,Class I Obese,2
+2017,9845,Normal,12
+2017,9845,Overweight,5
+2017,9849,Class I Obese,5
+2017,9849,Normal,5
+2017,9849,Underweight,1
+2017,9850,Class I Obese,1
+2017,9850,Normal,3
+2017,9850,Overweight,1
+2017,9851,Class I Obese,1
+2017,9851,Class III Obese,1
+2017,9852,Normal,3
+2017,9852,Overweight,3
+2017,9900,Class I Obese,1
+2017,9900,Normal,2
+2017,9900,Overweight,2
+2017,9900,Underweight,1
+2017,10000,Class I Obese,3
+2017,10000,Normal,1
+2017,10100,Class I Obese,3
+2017,10100,Normal,1
+2017,10100,Overweight,1
+2017,10100,Underweight,2
+2017,10205,Normal,2
+2017,10206,Class II Obese,1
+2017,10206,Normal,2
+2017,10206,Overweight,1
+2017,10208,Normal,1
+2017,10208,Overweight,3
+2017,10208,Underweight,1
+2017,10209,Normal,1
+2017,10210,Normal,1
+2017,10211,Normal,1
+2017,10211,Overweight,1
+2017,10212,Class I Obese,3
+2017,10212,Class III Obese,1
+2017,10212,Overweight,1
+2017,10213,Class I Obese,1
+2017,10213,Normal,2
+2017,10303,Class II Obese,1
+2017,10303,Normal,3
+2017,10303,Overweight,2
+2017,10304,Normal,1
+2017,10306,Class I Obese,1
+2017,10306,Normal,1
+2017,10306,Overweight,2
+2017,10308,Class II Obese,1
+2017,10402,Class I Obese,1
+2017,10402,Normal,1
+2017,10402,Overweight,3
+2017,10403,Class I Obese,1
+2017,10403,Normal,3
+2017,10403,Overweight,1
+2017,10405,Underweight,1
+2017,10406,Class I Obese,1
+2017,10406,Class III Obese,1
+2017,10406,Normal,1
+2017,10406,Overweight,6
+2017,10502,Class I Obese,2
+2017,10502,Class II Obese,1
+2017,10502,Normal,6
+2017,10502,Overweight,3
+2017,10502,Underweight,1
+2017,10503,Class I Obese,1
+2017,10503,Normal,1
+2017,10503,Overweight,2
+2017,10504,Class I Obese,4
+2017,10504,Normal,1
+2017,10603,Normal,4
+2017,10604,Class I Obese,2
+2017,10604,Class II Obese,2
+2017,10604,Class III Obese,1
+2017,10604,Overweight,1
+2017,10701,Class III Obese,1
+2017,10701,Normal,1
+2017,10701,Overweight,1
+2017,10702,Class I Obese,2
+2017,10702,Normal,2
+2017,10801,Class I Obese,2
+2017,10801,Normal,1
+2017,10901,Class I Obese,2
+2017,10901,Normal,8
+2017,10901,Underweight,1
+2017,10902,Class I Obese,1
+2017,11000,Class I Obese,1
+2017,11000,Class II Obese,2
+2017,11000,Normal,3
+2017,11000,Overweight,2
+2017,11100,Class I Obese,2
+2017,11100,Class II Obese,1
+2017,11100,Normal,2
+2017,11100,Overweight,2
+2017,11100,Underweight,1
+2017,11202,Normal,3
+2017,11300,Class I Obese,1
+2017,11402,Class I Obese,2
+2017,11402,Normal,2
+2017,11550,Class I Obese,3
+2017,11550,Normal,1
+2017,11550,Overweight,2
+2017,11602,Class I Obese,1
+2017,11602,Class II Obese,1
+2017,11701,Class I Obese,3
+2017,11701,Normal,2
+2017,11701,Underweight,3
+2017,11702,Class I Obese,1
+2017,11702,Class II Obese,1
+2017,11702,Normal,1
+2017,11702,Overweight,1
+2017,11709,Class I Obese,1
+2017,11709,Class II Obese,1
+2017,11709,Normal,1
+2017,11709,Overweight,1
+2017,11710,Class I Obese,1
+2017,11710,Class III Obese,1
+2017,11710,Normal,3
+2017,11711,Class I Obese,1
+2017,11711,Normal,1
+2017,11712,Class I Obese,2
+2017,11712,Normal,1
+2017,11720,Class I Obese,5
+2017,11720,Class II Obese,1
+2017,11720,Normal,2
+2017,11720,Overweight,4
+2017,11721,Class I Obese,1
+2017,11721,Class II Obese,1
+2017,11723,Overweight,1
+2017,11724,Class II Obese,1
+2017,11724,Normal,1
+2017,11724,Underweight,1
+2017,11725,Class I Obese,2
+2017,11725,Normal,1
+2017,11726,Class I Obese,2
+2017,11726,Class III Obese,1
+2017,11726,Normal,4
+2017,11726,Overweight,3
+2017,11726,Underweight,2
+2017,11727,Class I Obese,1
+2017,11727,Normal,1
+2017,11728,Normal,1
+2017,11729,Class I Obese,4
+2017,11729,Class II Obese,1
+2017,11729,Overweight,1
+2017,11730,Class I Obese,2
+2017,11730,Normal,1
+2017,11731,Class I Obese,5
+2017,11731,Class II Obese,2
+2017,11731,Normal,4
+2017,11731,Underweight,2
+2017,11733,Normal,1
+2017,11803,Class I Obese,3
+2017,11803,Class II Obese,1
+2017,11803,Class III Obese,2
+2017,11803,Normal,2
+2017,11803,Overweight,1
+2017,11804,Class I Obese,1
+2017,11804,Normal,2
+2017,11804,Overweight,1
+2017,11805,Class I Obese,1
+2017,11805,Underweight,1
+2017,11806,Class I Obese,3
+2017,11806,Class II Obese,2
+2017,11806,Class III Obese,1
+2017,11806,Normal,2
+2017,11806,Underweight,1
+2017,11902,Class I Obese,1
+2017,11902,Normal,1
+2017,11902,Overweight,1
+2017,11903,Class I Obese,2
+2017,11904,Class II Obese,1
+2017,11904,Normal,1
+2017,11904,Overweight,3
+2017,11904,Underweight,1
+2017,11951,Class I Obese,1
+2017,11951,Normal,3
+2017,11951,Overweight,2
+2017,12001,Class I Obese,2
+2017,12001,Overweight,1
+2017,12010,Class I Obese,3
+2017,12010,Normal,1
+2017,12010,Overweight,1
+2017,12014,Class I Obese,2
+2017,12014,Normal,1
+2017,12014,Overweight,1
+2017,12022,Class I Obese,1
+2017,12022,Normal,1
+2017,12023,Class I Obese,1
+2017,12023,Normal,1
+2017,12024,Normal,3
+2017,12024,Overweight,1
+2017,12027,Class I Obese,4
+2017,12027,Normal,7
+2017,12027,Overweight,9
+2017,12027,Underweight,2
+2017,12033,Class II Obese,1
+2017,12033,Class III Obese,1
+2017,12033,Normal,1
+2017,12034,Class I Obese,7
+2017,12034,Class II Obese,1
+2017,12034,Normal,6
+2017,12034,Overweight,3
+2017,12035,Class I Obese,7
+2017,12035,Class II Obese,1
+2017,12035,Class III Obese,1
+2017,12035,Normal,10
+2017,12035,Overweight,3
+2017,12035,Underweight,1
+2017,12036,Class I Obese,6
+2017,12036,Class II Obese,2
+2017,12036,Class III Obese,1
+2017,12036,Normal,11
+2017,12036,Overweight,4
+2017,12036,Underweight,1
+2017,12038,Overweight,1
+2017,12039,Class II Obese,1
+2017,12041,Class I Obese,2
+2017,12041,Normal,1
+2017,12041,Overweight,2
+2017,12042,Class I Obese,1
+2017,12042,Overweight,2
+2017,12043,Class II Obese,1
+2017,12045,Class I Obese,1
+2017,12045,Normal,1
+2017,12045,Underweight,1
+2017,12046,Class I Obese,1
+2017,12046,Overweight,1
+2017,12047,Class I Obese,1
+2017,12047,Normal,1
+2017,12047,Overweight,1
+2017,12048,Normal,1
+2017,12048,Overweight,1
+2017,12049,Class I Obese,1
+2017,12049,Normal,2
+2017,12049,Overweight,2
+2017,12050,Normal,2
+2017,12050,Overweight,2
+2017,12051,Normal,2
+2017,12052,Class I Obese,1
+2017,12053,Class I Obese,1
+2017,12053,Normal,1
+2017,12054,Class I Obese,1
+2017,12054,Class II Obese,1
+2017,12054,Normal,2
+2017,12054,Overweight,1
+2017,12055,Class III Obese,1
+2017,12057,Class I Obese,1
+2017,12057,Class III Obese,1
+2017,12059,Normal,2
+2017,12059,Underweight,1
+2017,12060,Overweight,1
+2017,12101,Normal,1
+2017,12102,Overweight,1
+2017,12103,Class II Obese,1
+2017,12103,Normal,1
+2017,12104,Overweight,1
+2017,12201,Class I Obese,1
+2017,12201,Class II Obese,1
+2017,12201,Normal,2
+2017,12202,Class I Obese,1
+2017,12202,Normal,1
+2017,12203,Class I Obese,3
+2017,12203,Normal,6
+2017,12203,Overweight,1
+2017,12204,Normal,1
+2017,12300,Class I Obese,1
+2017,12300,Normal,1
+2017,12401,Normal,1
+2017,12501,Class I Obese,1
+2017,12501,Class II Obese,2
+2017,12501,Normal,1
+2017,12505,Normal,6
+2017,12505,Overweight,2
+2017,12505,Underweight,1
+2017,12507,Class II Obese,2
+2017,12508,Class II Obese,1
+2017,12508,Underweight,1
+2017,12509,Normal,1
+2017,12509,Underweight,1
+2017,12510,Class I Obese,9
+2017,12510,Class II Obese,1
+2017,12510,Normal,11
+2017,12510,Overweight,7
+2017,12510,Underweight,2
+2017,12511,Overweight,1
+2017,12603,Class I Obese,1
+2017,12603,Normal,2
+2017,12603,Overweight,1
+2017,12605,Normal,1
+2017,12605,Overweight,1
+2017,12607,Normal,1
+2017,12608,Class I Obese,1
+2017,12608,Normal,3
+2017,12608,Overweight,1
+2017,12701,Class I Obese,3
+2017,12701,Class II Obese,1
+2017,12701,Class III Obese,2
+2017,12701,Normal,4
+2017,12701,Overweight,4
+2017,12705,Class I Obese,2
+2017,12705,Normal,1
+2017,12707,Class I Obese,6
+2017,12707,Class III Obese,1
+2017,12707,Normal,3
+2017,12707,Overweight,3
+2017,12707,Underweight,1
+2017,12708,Class I Obese,1
+2017,12708,Normal,2
+2017,12708,Underweight,1
+2017,12709,Class I Obese,1
+2017,12710,Normal,8
+2017,12710,Overweight,1
+2017,12800,Class I Obese,2
+2017,12800,Normal,4
+2017,12800,Overweight,2
+2017,12800,Underweight,1
+2017,12903,Overweight,1
+2017,12904,Class I Obese,1
+2017,12904,Normal,2
+2017,12904,Underweight,1
+2017,12905,Class I Obese,1
+2017,12905,Overweight,1
+2017,12907,Overweight,1
+2017,13003,Class I Obese,1
+2017,13003,Normal,3
+2017,13003,Overweight,1
+2017,13005,Normal,1
+2017,13006,Normal,1
+2017,13201,Class III Obese,1
+2017,13201,Normal,5
+2017,13201,Overweight,5
+2017,13201,Underweight,2
+2017,13202,Class I Obese,8
+2017,13202,Class II Obese,4
+2017,13202,Class III Obese,1
+2017,13202,Normal,10
+2017,13202,Overweight,9
+2017,13202,Underweight,2
+2017,13205,Underweight,1
+2017,13207,Class I Obese,1
+2017,13207,Normal,1
+2017,13208,Class I Obese,1
+2017,13208,Normal,1
+2017,13208,Underweight,1
+2017,13210,Overweight,1
+2017,13211,Class I Obese,2
+2017,13211,Normal,3
+2017,13211,Overweight,4
+2017,13211,Underweight,1
+2017,13212,Class I Obese,3
+2017,13212,Normal,2
+2017,13213,Class I Obese,2
+2017,13213,Class II Obese,2
+2017,13213,Normal,2
+2017,13213,Overweight,1
+2017,13306,Normal,1
+2017,13401,Underweight,1
+2017,13402,Normal,4
+2017,13402,Overweight,1
+2017,13503,Normal,1
+2017,13507,Class I Obese,1
+2017,13507,Overweight,1
+2017,13508,Class I Obese,1
+2017,13508,Normal,1
+2017,13601,Class I Obese,3
+2017,13601,Class II Obese,1
+2017,13601,Class III Obese,1
+2017,13601,Normal,7
+2017,13601,Overweight,2
+2017,13601,Underweight,3
+2017,13602,Class I Obese,1
+2017,13701,Class I Obese,7
+2017,13701,Class II Obese,4
+2017,13701,Class III Obese,1
+2017,13701,Normal,12
+2017,13701,Overweight,4
+2017,13701,Underweight,2
+2017,13702,Class I Obese,5
+2017,13702,Class II Obese,2
+2017,13702,Class III Obese,1
+2017,13702,Normal,5
+2017,13702,Overweight,4
+2017,13901,Class I Obese,10
+2017,13901,Class II Obese,3
+2017,13901,Normal,14
+2017,13901,Overweight,9
+2017,13901,Underweight,1
+2017,13904,Normal,1
+2017,13905,Normal,1
+2017,13907,Class I Obese,1
+2017,13907,Normal,1
+2017,13907,Overweight,2
+2017,13908,Class I Obese,5
+2017,13908,Normal,1
+2017,13908,Overweight,3
+2017,13910,Normal,2
+2017,13911,Class I Obese,7
+2017,13911,Class II Obese,2
+2017,13911,Class III Obese,1
+2017,13911,Normal,2
+2017,14001,Class I Obese,12
+2017,14001,Class III Obese,1
+2017,14001,Normal,4
+2017,14001,Overweight,2
+2017,14001,Underweight,1
+2017,14006,Class I Obese,1
+2017,14006,Class II Obese,1
+2017,14006,Normal,1
+2017,14007,Class I Obese,1
+2017,14007,Normal,4
+2017,14007,Overweight,4
+2017,14007,Underweight,2
+2017,14008,Class I Obese,1
+2017,14008,Overweight,2
+2017,14009,Normal,1
+2017,14009,Overweight,1
+2017,14010,Normal,2
+2017,14010,Overweight,1
+2017,14011,Class I Obese,5
+2017,14011,Class III Obese,1
+2017,14011,Normal,10
+2017,14011,Overweight,7
+2017,14011,Underweight,3
+2017,14012,Class I Obese,13
+2017,14012,Class II Obese,4
+2017,14012,Class III Obese,1
+2017,14012,Normal,14
+2017,14012,Overweight,8
+2017,14012,Underweight,2
+2017,14013,Class I Obese,5
+2017,14013,Class II Obese,3
+2017,14013,Class III Obese,1
+2017,14013,Normal,5
+2017,14013,Overweight,5
+2017,14013,Underweight,1
+2017,14107,Class I Obese,1
+2017,14107,Class III Obese,1
+2017,14107,Normal,1
+2017,14107,Overweight,1
+2017,14107,Underweight,1
+2017,14108,Overweight,2
+2017,14109,Class I Obese,1
+2017,14109,Overweight,1
+2017,14110,Class I Obese,1
+2017,14110,Normal,3
+2017,14110,Overweight,1
+2017,14110,Underweight,1
+2017,14112,Overweight,1
+2017,14113,Normal,1
+2017,14114,Class I Obese,1
+2017,14114,Class II Obese,1
+2017,14114,Class III Obese,1
+2017,14114,Normal,4
+2017,14114,Overweight,2
+2017,14115,Class I Obese,1
+2017,14115,Normal,1
+2017,14115,Overweight,1
+2017,14116,Class I Obese,2
+2017,14116,Normal,2
+2017,14116,Overweight,2
+2017,14122,Class I Obese,6
+2017,14122,Normal,2
+2017,14122,Overweight,2
+2017,14123,Normal,2
+2017,14125,Class I Obese,3
+2017,14125,Class II Obese,1
+2017,14125,Normal,2
+2017,14125,Overweight,2
+2017,14126,Normal,1
+2017,14127,Normal,1
+2017,14128,Overweight,1
+2017,14129,Normal,2
+2017,14130,Class I Obese,1
+2017,14130,Overweight,2
+2017,14131,Class I Obese,1
+2017,14131,Class II Obese,2
+2017,14131,Normal,8
+2017,14131,Overweight,4
+2017,14131,Underweight,2
+2017,14132,Class I Obese,1
+2017,14132,Class II Obese,1
+2017,14132,Normal,1
+2017,14133,Class I Obese,4
+2017,14135,Class I Obese,4
+2017,14135,Normal,1
+2017,14135,Overweight,2
+2017,14136,Overweight,1
+2017,14137,Overweight,1
+2017,14139,Class I Obese,2
+2017,14139,Class III Obese,1
+2017,14139,Normal,1
+2017,14140,Class I Obese,3
+2017,14140,Overweight,1
+2017,14140,Underweight,1
+2017,14202,Normal,1
+2017,14204,Class I Obese,2
+2017,14204,Normal,4
+2017,14204,Overweight,2
+2017,14403,Class I Obese,5
+2017,14403,Class II Obese,1
+2017,14403,Normal,4
+2017,14403,Overweight,5
+2017,14403,Underweight,2
+2017,14405,Class I Obese,2
+2017,14405,Normal,3
+2017,14405,Overweight,4
+2017,14406,Class I Obese,4
+2017,14406,Class III Obese,1
+2017,14406,Normal,5
+2017,14406,Overweight,5
+2017,14406,Underweight,1
+2017,14503,Class I Obese,3
+2017,14503,Normal,3
+2017,14503,Overweight,1
+2017,14504,Class II Obese,1
+2017,14505,Class I Obese,1
+2017,14505,Overweight,2
+2017,14505,Underweight,1
+2017,14506,Class I Obese,4
+2017,14506,Class II Obese,3
+2017,14506,Normal,2
+2017,14506,Overweight,3
+2017,14506,Underweight,1
+2017,14602,Class II Obese,4
+2017,14602,Normal,8
+2017,14602,Overweight,3
+2017,14603,Normal,1
+2017,14604,Class I Obese,2
+2017,14604,Class II Obese,1
+2017,14604,Normal,2
+2017,14604,Overweight,5
+2017,14604,Underweight,1
+2017,15000,Class I Obese,2
+2017,15000,Class II Obese,1
+2017,15000,Class III Obese,1
+2017,15000,Normal,8
+2017,15000,Overweight,2
+2017,15100,Class III Obese,1
+2017,15100,Normal,1
+2017,15100,Overweight,2
+2017,15300,Normal,1
+2017,15300,Overweight,1
+2017,15400,Normal,3
+2017,15400,Overweight,1
+2017,15500,Normal,2
+2017,15600,Class I Obese,2
+2017,15600,Normal,2
+2017,15700,Normal,2
+2017,15700,Overweight,3
+2017,15800,Class I Obese,1
+2017,15900,Class I Obese,5
+2017,15900,Class III Obese,1
+2017,15900,Normal,2
+2017,15900,Overweight,3
+2017,30000,Normal,1
+2017,30200,Class I Obese,1
+2017,30200,Normal,1
+2017,30200,Underweight,1
+2017,30400,Class I Obese,1
+2017,30400,Normal,1
+2017,30500,Class I Obese,2
+2017,30500,Overweight,1
+2017,30600,Class I Obese,2
+2017,30600,Overweight,2
+2017,30600,Underweight,1
+2017,30700,Normal,1
+2017,30700,Overweight,1
+2017,30800,Class I Obese,2
+2017,30800,Normal,1
+2017,30900,Normal,2
+2017,30900,Overweight,2
+2017,31000,Class I Obese,1
+2017,31000,Normal,1
+2017,31100,Class I Obese,5
+2017,31100,Normal,6
+2017,31100,Overweight,4
+2017,31100,Underweight,1
+2017,31200,Class I Obese,2
+2017,31200,Class II Obese,2
+2017,31200,Normal,1
+2017,31200,Overweight,1
+2017,31300,Class II Obese,2
+2017,31300,Class III Obese,1
+2017,31300,Normal,3
+2017,31300,Overweight,2
+2017,31400,Class I Obese,2
+2017,31400,Normal,2
+2017,31400,Overweight,3
+2017,60000,Class I Obese,2
+2017,60000,Class II Obese,1
+2017,60000,Normal,3
+2017,60000,Overweight,4
+2017,60000,Underweight,2
+2017,60100,Class I Obese,5
+2017,60100,Class III Obese,1
+2017,60100,Normal,2
+2017,60100,Overweight,1
+2017,60100,Underweight,1
+2017,60200,Class I Obese,1
+2017,60200,Normal,2
+2017,60200,Overweight,3
+2017,60300,Normal,1
+2017,60300,Overweight,1
+2017,60400,Class II Obese,1
+2017,60400,Normal,1
+2017,60400,Overweight,1
+2017,60500,Class I Obese,7
+2017,60500,Class II Obese,2
+2017,60500,Normal,16
+2017,60500,Overweight,5
+2017,60500,Underweight,3
+2017,60600,Class I Obese,11
+2017,60600,Class II Obese,1
+2017,60600,Class III Obese,1
+2017,60600,Normal,13
+2017,60600,Overweight,6
+2017,60700,Normal,2
+2017,60700,Overweight,2
+2017,60800,Class I Obese,5
+2017,60800,Class III Obese,2
+2017,60800,Normal,3
+2017,60800,Overweight,3
+2017,60800,Underweight,2
+2017,60900,Class I Obese,2
+2017,60900,Normal,2
+2017,61200,Normal,1
+2017,61300,Class I Obese,1
+2017,61300,Normal,1
+2017,61400,Class I Obese,1
+2017,61400,Normal,3
+2017,80000,Normal,1
+2017,80000,Overweight,3
+2017,80100,Class I Obese,1
+2017,80100,Normal,4
+2017,80100,Overweight,1
+2017,80200,Class I Obese,3
+2017,80200,Class III Obese,1
+2017,80200,Normal,3
+2017,80200,Overweight,1
+2017,80200,Underweight,1
+2017,80300,Class I Obese,1
+2017,80300,Class II Obese,1
+2017,80300,Normal,4
+2017,80300,Overweight,3
+2017,80300,Underweight,1
+2017,80400,Class I Obese,2
+2017,80400,Normal,7
+2017,80400,Overweight,3
+2017,80500,Class I Obese,2
+2017,80500,Overweight,1
+2017,80600,Class II Obese,1
+2017,80600,Normal,1
+2017,80600,Overweight,1
+2017,80600,Underweight,1
+2017,80700,Class I Obese,2
+2017,80700,Overweight,1
+2017,80800,Class I Obese,1
+2017,80800,Normal,1
+2017,80900,Class I Obese,3
+2017,80900,Normal,3
+2017,80900,Overweight,1
+2017,81000,Class I Obese,2
+2017,81000,Class II Obese,2
+2017,81000,Normal,4
+2017,81100,Normal,4
+2017,81200,Class I Obese,1
+2017,81200,Overweight,1
+2017,81300,Class III Obese,1
+2017,81300,Normal,2
+2017,81400,Class I Obese,2
+2017,81400,Normal,5
+2017,81400,Overweight,1
+2017,81400,Underweight,1
+2017,81500,Class II Obese,1
+2017,81500,Normal,1
+2017,81600,Class I Obese,1
+2017,81600,Normal,2
+2017,81600,Overweight,2
+2017,81600,Underweight,1
+2017,81700,Class I Obese,1
+2017,81700,Normal,2
+2017,81700,Overweight,1
+2017,81700,Underweight,2
+2017,81800,Overweight,1
+2017,81900,Class II Obese,1
+2017,81900,Overweight,3
+2017,82000,Class I Obese,2
+2017,82000,Normal,1
+2017,82000,Overweight,2
+2017,82000,Underweight,1
+2017,82100,Class I Obese,1
+2017,82100,Class II Obese,1
+2017,82100,Normal,2
+2017,82100,Overweight,2
+2017,82200,Normal,1
+2017,82300,Class I Obese,1
+2017,82300,Class II Obese,1
+2017,82400,Class II Obese,1
+2017,82400,Normal,2
+2017,82400,Overweight,1
+2017,82500,Class I Obese,1
+2017,82500,Normal,1
+2017,82500,Overweight,1
+2017,82600,Class I Obese,2
+2017,82600,Normal,2
+2017,82600,Overweight,1
+2017,82700,Class III Obese,1
+2017,83000,Class I Obese,3
+2017,83000,Normal,5
+2017,83000,Overweight,4
+2017,83000,Underweight,1
+2017,83100,Normal,5
+2017,83100,Overweight,1
+2017,83200,Class I Obese,6
+2017,83200,Class II Obese,1
+2017,83200,Normal,2
+2017,83200,Overweight,3
+2017,83300,Class I Obese,1
+2017,83300,Overweight,1
+2017,83300,Underweight,1
+2017,83400,Normal,3
+2017,83400,Overweight,2
+2017,83500,Class III Obese,1
+2017,83500,Overweight,1
+2017,83600,Class I Obese,2
+2017,83600,Normal,1
+2017,83600,Overweight,1
+2017,83700,Class I Obese,7
+2017,83700,Class II Obese,1
+2017,83700,Normal,5
+2017,83700,Overweight,2
+2017,83700,Underweight,2
+2017,83800,Normal,1
+2017,83800,Overweight,1
+2017,83900,Class II Obese,1
+2017,83900,Overweight,1
+2017,84000,Normal,1
+2017,84200,Class II Obese,1
+2017,84200,Normal,1
+2017,84200,Overweight,2
+2017,84400,Normal,1
+2017,84500,Class I Obese,1
+2017,84600,Class I Obese,4
+2017,84600,Normal,1
+2017,84700,Normal,2
+2017,84700,Overweight,1
+2017,84800,Overweight,1
+2017,84900,Class I Obese,2
+2017,84900,Normal,1
+2017,84900,Overweight,1
+2017,85000,Class II Obese,1
+2017,85000,Class III Obese,1
+2017,85000,Normal,4
+2017,85000,Overweight,1
+2017,85100,Class I Obese,1
+2017,85100,Class III Obese,1
+2017,85100,Normal,1
+2017,85100,Overweight,2
+2017,85100,Underweight,1
+2017,85200,Class I Obese,2
+2017,85200,Normal,3
+2017,85300,Class I Obese,1
+2017,85300,Normal,2
+2017,85400,Overweight,1
+2017,85500,Class I Obese,1
+2017,85500,Class III Obese,1
+2017,85500,Normal,3
+2017,85600,Class I Obese,1
+2017,85700,Overweight,2
+2017,85800,Class I Obese,2
+2017,85800,Normal,2
+2017,85900,Class I Obese,2
+2017,85900,Class III Obese,1
+2017,85900,Normal,5
+2017,85900,Overweight,1
+2017,86000,Normal,1
+2017,86000,Overweight,1
+2017,86100,Class II Obese,1
+2017,86100,Overweight,2
+2017,86200,Normal,2
+2017,86200,Underweight,1
+2017,86300,Class I Obese,2
+2017,86300,Normal,2
+2017,86400,Class I Obese,1
+2017,86400,Normal,3
+2017,86400,Overweight,7
+2017,86500,Class I Obese,1
+2017,86500,Normal,3
+2017,86600,Class I Obese,2
+2017,86700,Normal,1
+2017,86700,Overweight,1
+2017,86800,Normal,2
+2017,86900,Class I Obese,2
+2017,86900,Class II Obese,1
+2017,86900,Normal,2
+2017,86900,Overweight,1
+2017,87000,Class I Obese,1
+2017,87000,Normal,1
+2017,87000,Overweight,1
+2017,87100,Class III Obese,2
+2017,87100,Overweight,2
+2017,87200,Class I Obese,3
+2017,87200,Class II Obese,1
+2017,87200,Normal,2
+2017,87200,Overweight,2
+2017,87200,Underweight,1
+2017,87300,Class I Obese,1
+2017,87300,Normal,4
+2017,87300,Overweight,1
+2017,961204,Class I Obese,3
+2017,961204,Class II Obese,1
+2017,961204,Normal,6
+2017,961204,Overweight,3
+2017,961206,Normal,1
+2017,980000,Class I Obese,7
+2017,980000,Class II Obese,3
+2017,980000,Normal,11
+2017,980000,Overweight,6
+2017,980000,Underweight,2
+2017,980100,Class I Obese,1
+2017,980100,Normal,3
+2017,980100,Overweight,2
+2017,988700,Class I Obese,7
+2017,988700,Class II Obese,1
+2017,988700,Class III Obese,1
+2017,988700,Normal,11
+2017,988700,Underweight,3
+2017,NA,Normal,15
+2017,NA,Underweight,13
+2018,102,Overweight,3
+2018,201,Class I Obese,1
+2018,201,Normal,3
+2018,201,Overweight,1
+2018,201,Underweight,1
+2018,202,Class II Obese,1
+2018,202,Overweight,1
+2018,301,Class I Obese,3
+2018,301,Normal,1
+2018,301,Overweight,3
+2018,302,Overweight,1
+2018,303,Class I Obese,2
+2018,303,Class II Obese,1
+2018,303,Overweight,1
+2018,401,Class I Obese,1
+2018,401,Normal,1
+2018,402,Class I Obese,1
+2018,402,Normal,1
+2018,501,Class I Obese,1
+2018,502,Class I Obese,1
+2018,502,Normal,1
+2018,502,Overweight,3
+2018,600,Class I Obese,1
+2018,600,Overweight,2
+2018,702,Class I Obese,2
+2018,702,Overweight,3
+2018,800,Class I Obese,2
+2018,902,Class I Obese,1
+2018,902,Overweight,2
+2018,903,Overweight,3
+2018,904,Class I Obese,1
+2018,904,Normal,1
+2018,905,Class I Obese,2
+2018,905,Normal,1
+2018,905,Overweight,1
+2018,1000,Overweight,3
+2018,1101,Class I Obese,1
+2018,1101,Normal,1
+2018,1101,Overweight,2
+2018,1102,Class III Obese,1
+2018,1102,Normal,2
+2018,1102,Overweight,1
+2018,1301,Class I Obese,4
+2018,1301,Overweight,1
+2018,1302,Class II Obese,2
+2018,1302,Normal,3
+2018,1401,Class I Obese,1
+2018,1401,Normal,1
+2018,1401,Overweight,2
+2018,1402,Class I Obese,1
+2018,1402,Class III Obese,1
+2018,1402,Normal,1
+2018,1403,Class I Obese,1
+2018,1403,Normal,3
+2018,1403,Overweight,3
+2018,1500,Class I Obese,5
+2018,1500,Normal,5
+2018,1500,Overweight,1
+2018,1600,Class I Obese,1
+2018,1600,Class II Obese,1
+2018,1600,Normal,3
+2018,1600,Overweight,1
+2018,1701,Class I Obese,1
+2018,1701,Class II Obese,1
+2018,1702,Class I Obese,2
+2018,1702,Overweight,1
+2018,1800,Class I Obese,1
+2018,1800,Overweight,1
+2018,1901,Class I Obese,2
+2018,1901,Normal,4
+2018,1901,Overweight,2
+2018,1902,Class I Obese,3
+2018,1902,Normal,2
+2018,1902,Overweight,7
+2018,1906,Class I Obese,1
+2018,1906,Class III Obese,1
+2018,1906,Normal,1
+2018,1906,Overweight,6
+2018,1907,Class I Obese,2
+2018,1907,Class II Obese,3
+2018,1907,Normal,3
+2018,1907,Overweight,3
+2018,1908,Class I Obese,2
+2018,1908,Class III Obese,1
+2018,1908,Normal,2
+2018,2000,Class II Obese,1
+2018,2000,Normal,1
+2018,2000,Overweight,2
+2018,2005,Class I Obese,1
+2018,2005,Class III Obese,1
+2018,2005,Normal,1
+2018,2006,Normal,1
+2018,2007,Class II Obese,1
+2018,2007,Class III Obese,1
+2018,2007,Normal,3
+2018,2007,Overweight,1
+2018,2008,Class III Obese,1
+2018,2009,Class I Obese,6
+2018,2009,Class II Obese,1
+2018,2009,Class III Obese,2
+2018,2009,Normal,1
+2018,2009,Overweight,4
+2018,2009,Underweight,1
+2018,2010,Class I Obese,6
+2018,2010,Class II Obese,3
+2018,2010,Class III Obese,1
+2018,2010,Normal,3
+2018,2010,Overweight,6
+2018,2011,Normal,1
+2018,2017,Class I Obese,3
+2018,2100,Class I Obese,3
+2018,2100,Normal,1
+2018,2100,Overweight,1
+2018,2103,Class I Obese,9
+2018,2103,Class II Obese,1
+2018,2103,Class III Obese,3
+2018,2103,Normal,1
+2018,2103,Overweight,6
+2018,2300,Class I Obese,1
+2018,2300,Overweight,1
+2018,2403,Class I Obese,1
+2018,2403,Normal,1
+2018,2403,Overweight,1
+2018,2502,Class III Obese,1
+2018,2601,Normal,1
+2018,2601,Overweight,1
+2018,2602,Class I Obese,1
+2018,2602,Class III Obese,1
+2018,2602,Overweight,1
+2018,2701,Class I Obese,1
+2018,2701,Overweight,1
+2018,2702,Normal,3
+2018,2702,Overweight,1
+2018,2801,Class I Obese,1
+2018,2801,Normal,1
+2018,2802,Normal,1
+2018,2802,Overweight,1
+2018,2901,Class I Obese,1
+2018,2901,Normal,3
+2018,2901,Overweight,1
+2018,2902,Class I Obese,2
+2018,2902,Class II Obese,1
+2018,2902,Normal,1
+2018,3001,Class I Obese,1
+2018,3001,Overweight,1
+2018,3003,Class II Obese,1
+2018,3004,Class I Obese,2
+2018,3101,Overweight,1
+2018,3102,Class I Obese,2
+2018,3201,Class I Obese,3
+2018,3201,Class III Obese,1
+2018,3201,Overweight,1
+2018,3202,Class I Obese,1
+2018,3202,Normal,1
+2018,3203,Class I Obese,1
+2018,3203,Class II Obese,1
+2018,3203,Normal,1
+2018,3203,Overweight,2
+2018,3300,Normal,3
+2018,3401,Class I Obese,3
+2018,3401,Overweight,1
+2018,3402,Class I Obese,2
+2018,3402,Class II Obese,1
+2018,3402,Normal,1
+2018,3402,Overweight,2
+2018,3500,Class I Obese,3
+2018,3500,Class II Obese,1
+2018,3500,Class III Obese,1
+2018,3500,Overweight,7
+2018,3601,Class I Obese,3
+2018,3601,Normal,1
+2018,3601,Overweight,3
+2018,3602,Class I Obese,1
+2018,3602,Normal,2
+2018,3602,Overweight,3
+2018,3603,Class I Obese,2
+2018,3603,Class II Obese,1
+2018,3603,Normal,3
+2018,3603,Overweight,3
+2018,3701,Class I Obese,2
+2018,3701,Normal,2
+2018,3701,Overweight,2
+2018,3702,Class II Obese,1
+2018,3702,Overweight,1
+2018,3703,Normal,2
+2018,3800,Class I Obese,3
+2018,3800,Normal,2
+2018,3800,Overweight,3
+2018,3901,Class I Obese,2
+2018,3901,Class II Obese,1
+2018,3901,Normal,1
+2018,3901,Overweight,1
+2018,3902,Class I Obese,1
+2018,3902,Class II Obese,1
+2018,3902,Normal,1
+2018,3902,Overweight,3
+2018,4002,Normal,3
+2018,4002,Overweight,1
+2018,4003,Class I Obese,1
+2018,4003,Class III Obese,1
+2018,4003,Normal,1
+2018,4004,Class I Obese,1
+2018,4004,Normal,2
+2018,4004,Overweight,2
+2018,4005,Class II Obese,1
+2018,4005,Class III Obese,1
+2018,4005,Normal,1
+2018,4006,Class I Obese,2
+2018,4006,Class III Obese,1
+2018,4101,Class I Obese,3
+2018,4101,Class II Obese,1
+2018,4101,Normal,1
+2018,4101,Overweight,1
+2018,4102,Class I Obese,2
+2018,4102,Overweight,2
+2018,4103,Class I Obese,1
+2018,4103,Normal,2
+2018,4103,Overweight,3
+2018,4104,Class I Obese,1
+2018,4104,Normal,2
+2018,4104,Overweight,1
+2018,4106,Class I Obese,13
+2018,4106,Class II Obese,1
+2018,4106,Normal,4
+2018,4106,Overweight,5
+2018,4106,Underweight,1
+2018,4107,Class I Obese,5
+2018,4107,Class III Obese,1
+2018,4107,Normal,2
+2018,4107,Overweight,3
+2018,4201,Class I Obese,2
+2018,4201,Normal,2
+2018,4201,Overweight,3
+2018,4202,Class I Obese,1
+2018,4202,Class II Obese,1
+2018,4202,Overweight,2
+2018,4301,Class II Obese,2
+2018,4301,Normal,2
+2018,4302,Overweight,2
+2018,4303,Class I Obese,2
+2018,4303,Class III Obese,1
+2018,4303,Normal,4
+2018,4303,Overweight,2
+2018,4304,Class I Obese,2
+2018,4304,Class III Obese,1
+2018,4304,Normal,1
+2018,4304,Overweight,2
+2018,4306,Class I Obese,2
+2018,4306,Class II Obese,1
+2018,4306,Overweight,3
+2018,4306,Underweight,1
+2018,4403,Class I Obese,1
+2018,4403,Overweight,1
+2018,4404,Class I Obese,1
+2018,4404,Class II Obese,1
+2018,4404,Normal,1
+2018,4404,Overweight,3
+2018,4405,Class I Obese,8
+2018,4405,Class II Obese,1
+2018,4405,Class III Obese,2
+2018,4405,Normal,8
+2018,4405,Overweight,6
+2018,4503,Class I Obese,1
+2018,4503,Normal,2
+2018,4504,Class I Obese,1
+2018,4504,Normal,1
+2018,4505,Class I Obese,1
+2018,4506,Overweight,1
+2018,4601,Class I Obese,2
+2018,4601,Normal,1
+2018,4602,Class I Obese,1
+2018,4602,Class II Obese,1
+2018,4602,Normal,1
+2018,4602,Overweight,2
+2018,4700,Class I Obese,1
+2018,4700,Class II Obese,1
+2018,4700,Normal,2
+2018,4700,Overweight,1
+2018,4700,Underweight,1
+2018,4801,Overweight,1
+2018,4801,Underweight,1
+2018,4952,Normal,1
+2018,4952,Overweight,1
+2018,5001,Class I Obese,2
+2018,5001,Class II Obese,1
+2018,5001,Normal,2
+2018,5001,Overweight,1
+2018,5002,Class I Obese,2
+2018,5002,Class II Obese,1
+2018,5002,Normal,2
+2018,5002,Overweight,3
+2018,5102,Class I Obese,2
+2018,5102,Normal,2
+2018,5102,Overweight,1
+2018,5102,Underweight,1
+2018,5104,Class I Obese,1
+2018,5104,Overweight,1
+2018,5200,Class I Obese,3
+2018,5200,Class III Obese,1
+2018,5300,Class I Obese,2
+2018,5502,Class I Obese,6
+2018,5502,Class II Obese,2
+2018,5502,Class III Obese,1
+2018,5502,Normal,2
+2018,5503,Class I Obese,1
+2018,5503,Overweight,1
+2018,5551,Class I Obese,3
+2018,5551,Class II Obese,3
+2018,5551,Normal,2
+2018,5551,Overweight,2
+2018,5552,Class I Obese,2
+2018,5552,Normal,1
+2018,5553,Class I Obese,1
+2018,5553,Class II Obese,1
+2018,5553,Normal,1
+2018,5553,Overweight,1
+2018,5611,Class I Obese,3
+2018,5611,Class II Obese,1
+2018,5611,Class III Obese,2
+2018,5611,Normal,1
+2018,5611,Overweight,3
+2018,5612,Class I Obese,7
+2018,5612,Overweight,1
+2018,5614,Class I Obese,1
+2018,5614,Overweight,2
+2018,5619,Class I Obese,7
+2018,5619,Normal,4
+2018,5619,Overweight,3
+2018,5620,Normal,1
+2018,5621,Overweight,3
+2018,5622,Class II Obese,1
+2018,5622,Class III Obese,1
+2018,5622,Normal,4
+2018,5623,Class I Obese,1
+2018,5623,Class III Obese,1
+2018,5623,Overweight,1
+2018,5624,Class I Obese,1
+2018,5624,Normal,1
+2018,5625,Normal,1
+2018,5626,Class II Obese,1
+2018,5626,Normal,1
+2018,5627,Class I Obese,5
+2018,5627,Class II Obese,2
+2018,5627,Normal,1
+2018,5627,Overweight,1
+2018,5627,Underweight,1
+2018,5628,Class I Obese,4
+2018,5628,Normal,2
+2018,5628,Overweight,1
+2018,5629,Class I Obese,4
+2018,5629,Class II Obese,1
+2018,5629,Normal,1
+2018,5629,Overweight,3
+2018,5630,Normal,1
+2018,5631,Class I Obese,1
+2018,5631,Normal,2
+2018,5632,Class I Obese,2
+2018,5632,Class II Obese,1
+2018,5632,Normal,1
+2018,5633,Normal,1
+2018,5633,Overweight,2
+2018,5634,Class II Obese,1
+2018,5634,Normal,2
+2018,5634,Overweight,3
+2018,5635,Class I Obese,5
+2018,5635,Class II Obese,1
+2018,5635,Normal,1
+2018,5635,Overweight,3
+2018,5636,Class I Obese,6
+2018,5636,Normal,1
+2018,5636,Overweight,5
+2018,5700,Class I Obese,3
+2018,5800,Normal,1
+2018,5951,Class I Obese,1
+2018,5951,Class II Obese,3
+2018,5951,Normal,1
+2018,5952,Overweight,2
+2018,6000,Class II Obese,3
+2018,6000,Overweight,2
+2018,6100,Normal,1
+2018,6100,Overweight,2
+2018,6200,Class I Obese,1
+2018,6200,Overweight,2
+2018,6300,Class I Obese,1
+2018,6300,Overweight,1
+2018,6400,Class I Obese,1
+2018,6400,Class II Obese,1
+2018,6400,Class III Obese,2
+2018,6400,Normal,1
+2018,6400,Overweight,1
+2018,6501,Class I Obese,1
+2018,6501,Class II Obese,1
+2018,6501,Overweight,1
+2018,6502,Class III Obese,1
+2018,6601,Class II Obese,3
+2018,6601,Normal,1
+2018,6601,Overweight,2
+2018,6603,Class II Obese,1
+2018,6603,Overweight,3
+2018,6604,Class I Obese,4
+2018,6604,Overweight,1
+2018,6701,Class I Obese,1
+2018,6701,Class II Obese,1
+2018,6701,Normal,2
+2018,6701,Overweight,1
+2018,6704,Class I Obese,9
+2018,6704,Class II Obese,3
+2018,6704,Normal,4
+2018,6704,Overweight,7
+2018,6704,Underweight,1
+2018,6705,Class I Obese,5
+2018,6705,Class II Obese,2
+2018,6705,Normal,3
+2018,6705,Overweight,2
+2018,6706,Class I Obese,4
+2018,6706,Normal,2
+2018,6706,Overweight,2
+2018,6707,Class I Obese,1
+2018,6707,Class III Obese,2
+2018,6707,Normal,2
+2018,6707,Overweight,2
+2018,6708,Class I Obese,2
+2018,6708,Class II Obese,1
+2018,6708,Normal,2
+2018,6708,Overweight,1
+2018,6708,Underweight,1
+2018,6709,Class I Obese,3
+2018,6709,Class III Obese,1
+2018,6709,Normal,2
+2018,6709,Overweight,4
+2018,6711,Class I Obese,4
+2018,6711,Normal,2
+2018,6711,Overweight,2
+2018,6712,Class I Obese,2
+2018,6712,Class III Obese,1
+2018,6712,Normal,9
+2018,6712,Overweight,1
+2018,6712,Underweight,1
+2018,6713,Overweight,1
+2018,6804,Class I Obese,1
+2018,6804,Class III Obese,1
+2018,6804,Normal,1
+2018,6804,Overweight,1
+2018,6808,Class I Obese,3
+2018,6808,Class II Obese,1
+2018,6808,Class III Obese,1
+2018,6808,Normal,2
+2018,6808,Overweight,3
+2018,6809,Class I Obese,1
+2018,6809,Class III Obese,1
+2018,6809,Normal,3
+2018,6809,Overweight,2
+2018,6810,Class I Obese,2
+2018,6810,Normal,1
+2018,6810,Overweight,3
+2018,6811,Class I Obese,2
+2018,6811,Normal,3
+2018,6813,Class I Obese,1
+2018,6813,Normal,2
+2018,6813,Overweight,2
+2018,6814,Class I Obese,3
+2018,6814,Class II Obese,1
+2018,6814,Normal,4
+2018,6814,Overweight,4
+2018,6815,Class I Obese,2
+2018,6815,Class III Obese,2
+2018,6815,Normal,1
+2018,6815,Overweight,2
+2018,6854,Class I Obese,13
+2018,6854,Class II Obese,1
+2018,6854,Normal,4
+2018,6854,Overweight,7
+2018,6854,Underweight,2
+2018,6855,Class I Obese,5
+2018,6855,Class II Obese,1
+2018,6855,Class III Obese,1
+2018,6855,Normal,4
+2018,6855,Overweight,5
+2018,6856,Class I Obese,10
+2018,6856,Class II Obese,6
+2018,6856,Normal,10
+2018,6856,Overweight,10
+2018,6858,Class I Obese,3
+2018,6858,Normal,1
+2018,6858,Overweight,1
+2018,6901,Class I Obese,2
+2018,6901,Class II Obese,1
+2018,6901,Normal,2
+2018,6901,Overweight,2
+2018,7006,Class I Obese,1
+2018,7006,Overweight,4
+2018,7013,Class I Obese,1
+2018,7088,Class I Obese,1
+2018,7088,Class II Obese,1
+2018,7088,Normal,4
+2018,7088,Overweight,2
+2018,7089,Class I Obese,2
+2018,7101,Class I Obese,2
+2018,7101,Class II Obese,2
+2018,7101,Normal,4
+2018,7103,Class I Obese,8
+2018,7103,Class III Obese,1
+2018,7103,Normal,4
+2018,7103,Overweight,6
+2018,7103,Underweight,2
+2018,7104,Class I Obese,8
+2018,7104,Class II Obese,5
+2018,7104,Class III Obese,3
+2018,7104,Normal,4
+2018,7104,Overweight,8
+2018,7105,Class I Obese,3
+2018,7105,Class II Obese,3
+2018,7105,Class III Obese,3
+2018,7105,Normal,6
+2018,7105,Overweight,4
+2018,7106,Class I Obese,6
+2018,7106,Class III Obese,1
+2018,7106,Normal,2
+2018,7106,Overweight,4
+2018,7107,Class I Obese,1
+2018,7107,Class II Obese,1
+2018,7107,Class III Obese,1
+2018,7107,Normal,3
+2018,7107,Overweight,3
+2018,7201,Class I Obese,1
+2018,7201,Class II Obese,1
+2018,7201,Normal,1
+2018,7202,Class I Obese,1
+2018,7202,Normal,3
+2018,7202,Overweight,1
+2018,7301,Class I Obese,1
+2018,7301,Normal,1
+2018,7302,Class I Obese,3
+2018,7302,Normal,1
+2018,7302,Overweight,1
+2018,7400,Class I Obese,2
+2018,7400,Overweight,3
+2018,7500,Class I Obese,1
+2018,7500,Overweight,1
+2018,7600,Class I Obese,1
+2018,7600,Normal,1
+2018,7600,Overweight,1
+2018,7702,Class I Obese,3
+2018,7702,Class II Obese,1
+2018,7702,Normal,3
+2018,7702,Overweight,1
+2018,7703,Class I Obese,1
+2018,7703,Class II Obese,1
+2018,7703,Normal,1
+2018,7703,Overweight,2
+2018,7801,Class I Obese,1
+2018,7801,Overweight,1
+2018,7900,Class II Obese,1
+2018,7900,Normal,2
+2018,7900,Overweight,1
+2018,8000,Class I Obese,1
+2018,8000,Normal,2
+2018,8000,Overweight,2
+2018,8100,Class I Obese,2
+2018,8100,Class II Obese,1
+2018,8100,Overweight,3
+2018,8200,Class I Obese,4
+2018,8200,Overweight,2
+2018,8304,Overweight,1
+2018,8305,Class I Obese,1
+2018,8306,Class I Obese,1
+2018,8308,Class I Obese,3
+2018,8308,Normal,1
+2018,8309,Class I Obese,3
+2018,8309,Normal,3
+2018,8309,Overweight,2
+2018,8312,Class I Obese,1
+2018,8312,Class II Obese,1
+2018,8312,Normal,1
+2018,8353,Class I Obese,14
+2018,8353,Class II Obese,3
+2018,8353,Normal,12
+2018,8353,Overweight,15
+2018,8353,Underweight,2
+2018,8387,Class I Obese,1
+2018,8387,Normal,1
+2018,8387,Overweight,1
+2018,8390,Overweight,1
+2018,8401,Class I Obese,12
+2018,8401,Class II Obese,4
+2018,8401,Class III Obese,1
+2018,8401,Normal,9
+2018,8401,Overweight,18
+2018,8402,Class I Obese,2
+2018,8402,Class II Obese,1
+2018,8402,Class III Obese,1
+2018,8402,Normal,1
+2018,8402,Overweight,1
+2018,8505,Class I Obese,1
+2018,8505,Normal,2
+2018,8505,Overweight,3
+2018,8506,Normal,1
+2018,8506,Overweight,1
+2018,8507,Class I Obese,3
+2018,8507,Class II Obese,1
+2018,8507,Overweight,3
+2018,8508,Normal,1
+2018,8523,Class I Obese,19
+2018,8523,Class II Obese,2
+2018,8523,Class III Obese,6
+2018,8523,Normal,17
+2018,8523,Overweight,12
+2018,8524,Class I Obese,2
+2018,8524,Class II Obese,1
+2018,8524,Normal,1
+2018,8524,Overweight,2
+2018,8526,Class I Obese,1
+2018,8526,Class II Obese,1
+2018,8526,Class III Obese,1
+2018,8526,Normal,2
+2018,8526,Overweight,7
+2018,8529,Class I Obese,1
+2018,8529,Class II Obese,1
+2018,8529,Normal,3
+2018,8533,Class I Obese,1
+2018,8533,Normal,3
+2018,8534,Overweight,1
+2018,8534,Underweight,1
+2018,8535,Class I Obese,7
+2018,8535,Class III Obese,1
+2018,8535,Normal,4
+2018,8535,Overweight,5
+2018,8536,Class I Obese,1
+2018,8536,Normal,1
+2018,8536,Overweight,1
+2018,8537,Class I Obese,2
+2018,8537,Class II Obese,1
+2018,8537,Normal,1
+2018,8537,Overweight,2
+2018,8539,Class I Obese,1
+2018,8539,Overweight,1
+2018,8540,Class I Obese,1
+2018,8540,Class III Obese,1
+2018,8540,Normal,2
+2018,8540,Overweight,5
+2018,8541,Class I Obese,3
+2018,8541,Class II Obese,1
+2018,8541,Normal,4
+2018,8541,Overweight,3
+2018,8542,Class I Obese,1
+2018,8542,Normal,3
+2018,8542,Overweight,2
+2018,8543,Class I Obese,1
+2018,8543,Class III Obese,1
+2018,8543,Overweight,2
+2018,8544,Normal,1
+2018,8545,Class I Obese,2
+2018,8545,Overweight,3
+2018,8546,Class I Obese,1
+2018,8546,Overweight,1
+2018,8547,Class I Obese,1
+2018,8548,Class I Obese,3
+2018,8549,Class I Obese,1
+2018,8549,Normal,1
+2018,8550,Class I Obese,2
+2018,8550,Class II Obese,1
+2018,8550,Class III Obese,1
+2018,8550,Normal,3
+2018,8551,Class I Obese,3
+2018,8551,Normal,2
+2018,8551,Overweight,4
+2018,8603,Class I Obese,1
+2018,8603,Overweight,1
+2018,8606,Normal,2
+2018,8705,Class I Obese,1
+2018,8705,Normal,1
+2018,8706,Class II Obese,1
+2018,8709,Class I Obese,1
+2018,8709,Class II Obese,1
+2018,8709,Normal,2
+2018,8801,Normal,1
+2018,8801,Overweight,1
+2018,8802,Class I Obese,3
+2018,8802,Class II Obese,1
+2018,8802,Class III Obese,1
+2018,8802,Normal,2
+2018,8802,Overweight,4
+2018,8901,Class I Obese,4
+2018,8901,Overweight,3
+2018,9001,Class I Obese,2
+2018,9001,Class II Obese,1
+2018,9001,Normal,1
+2018,9002,Class I Obese,1
+2018,9002,Class II Obese,1
+2018,9002,Normal,2
+2018,9101,Class I Obese,1
+2018,9101,Class II Obese,1
+2018,9101,Normal,1
+2018,9101,Overweight,1
+2018,9103,Class I Obese,5
+2018,9103,Class II Obese,1
+2018,9103,Normal,3
+2018,9103,Overweight,2
+2018,9104,Normal,1
+2018,9202,Class I Obese,2
+2018,9202,Class II Obese,1
+2018,9202,Overweight,1
+2018,9203,Class I Obese,1
+2018,9203,Normal,2
+2018,9203,Overweight,2
+2018,9204,Class I Obese,1
+2018,9204,Class II Obese,1
+2018,9204,Normal,4
+2018,9206,Class I Obese,1
+2018,9207,Class I Obese,2
+2018,9207,Normal,1
+2018,9304,Class I Obese,1
+2018,9304,Class II Obese,1
+2018,9304,Class III Obese,1
+2018,9304,Normal,1
+2018,9304,Overweight,1
+2018,9307,Normal,1
+2018,9308,Class I Obese,1
+2018,9308,Underweight,1
+2018,9309,Class II Obese,1
+2018,9310,Class I Obese,2
+2018,9310,Normal,2
+2018,9316,Class I Obese,2
+2018,9316,Class II Obese,1
+2018,9316,Normal,1
+2018,9316,Overweight,1
+2018,9318,Class I Obese,1
+2018,9319,Class II Obese,1
+2018,9320,Class I Obese,2
+2018,9321,Overweight,1
+2018,9322,Overweight,1
+2018,9323,Class I Obese,1
+2018,9323,Overweight,2
+2018,9325,Class III Obese,1
+2018,9325,Overweight,3
+2018,9327,Class I Obese,1
+2018,9327,Class II Obese,1
+2018,9327,Overweight,2
+2018,9401,Class I Obese,3
+2018,9401,Normal,2
+2018,9406,Class I Obese,1
+2018,9406,Overweight,1
+2018,9407,Class I Obese,1
+2018,9407,Normal,1
+2018,9407,Overweight,1
+2018,9408,Class I Obese,2
+2018,9408,Normal,2
+2018,9408,Overweight,2
+2018,9409,Class I Obese,1
+2018,9409,Normal,1
+2018,9409,Overweight,1
+2018,9410,Class I Obese,2
+2018,9410,Overweight,3
+2018,9411,Class I Obese,1
+2018,9411,Class II Obese,1
+2018,9501,Normal,1
+2018,9502,Class I Obese,1
+2018,9502,Class II Obese,2
+2018,9502,Normal,3
+2018,9553,Class I Obese,3
+2018,9553,Class II Obese,1
+2018,9553,Normal,2
+2018,9553,Overweight,1
+2018,9603,Class I Obese,2
+2018,9604,Class II Obese,1
+2018,9604,Overweight,1
+2018,9606,Class I Obese,1
+2018,9607,Class I Obese,2
+2018,9607,Class II Obese,1
+2018,9607,Class III Obese,2
+2018,9607,Normal,1
+2018,9607,Overweight,2
+2018,9608,Class II Obese,2
+2018,9751,Class I Obese,1
+2018,9751,Class II Obese,1
+2018,9751,Normal,1
+2018,9752,Class I Obese,2
+2018,9752,Overweight,3
+2018,9806,Class I Obese,1
+2018,9806,Class II Obese,1
+2018,9806,Class III Obese,1
+2018,9806,Normal,2
+2018,9806,Overweight,1
+2018,9808,Class I Obese,17
+2018,9808,Class II Obese,6
+2018,9808,Class III Obese,4
+2018,9808,Normal,24
+2018,9808,Overweight,14
+2018,9808,Underweight,1
+2018,9815,Class I Obese,3
+2018,9815,Class II Obese,1
+2018,9815,Class III Obese,1
+2018,9815,Normal,1
+2018,9815,Overweight,1
+2018,9823,Class I Obese,1
+2018,9824,Class II Obese,1
+2018,9827,Class I Obese,1
+2018,9827,Class II Obese,2
+2018,9827,Normal,3
+2018,9827,Overweight,2
+2018,9828,Class I Obese,4
+2018,9828,Class II Obese,2
+2018,9828,Normal,1
+2018,9828,Overweight,1
+2018,9829,Class II Obese,1
+2018,9829,Normal,1
+2018,9829,Overweight,4
+2018,9831,Overweight,1
+2018,9832,Class I Obese,1
+2018,9832,Normal,1
+2018,9832,Underweight,1
+2018,9833,Class I Obese,1
+2018,9833,Normal,1
+2018,9833,Overweight,2
+2018,9834,Class I Obese,1
+2018,9834,Normal,1
+2018,9834,Overweight,1
+2018,9835,Class I Obese,2
+2018,9835,Normal,1
+2018,9835,Overweight,1
+2018,9836,Class I Obese,3
+2018,9836,Overweight,1
+2018,9837,Class I Obese,4
+2018,9837,Class III Obese,1
+2018,9837,Normal,1
+2018,9837,Overweight,3
+2018,9838,Class II Obese,1
+2018,9838,Normal,1
+2018,9838,Overweight,2
+2018,9839,Normal,1
+2018,9840,Class I Obese,2
+2018,9840,Normal,1
+2018,9840,Overweight,1
+2018,9843,Class I Obese,1
+2018,9845,Class I Obese,4
+2018,9845,Class II Obese,1
+2018,9845,Normal,7
+2018,9845,Overweight,6
+2018,9849,Class I Obese,2
+2018,9849,Class II Obese,2
+2018,9849,Normal,1
+2018,9850,Class I Obese,2
+2018,9850,Class III Obese,1
+2018,9850,Normal,3
+2018,9851,Class I Obese,1
+2018,9851,Class III Obese,1
+2018,9852,Class I Obese,1
+2018,9852,Normal,2
+2018,9852,Overweight,3
+2018,9900,Class I Obese,2
+2018,9900,Normal,2
+2018,9900,Overweight,1
+2018,10000,Class I Obese,2
+2018,10000,Normal,1
+2018,10100,Class I Obese,2
+2018,10100,Class II Obese,1
+2018,10100,Normal,1
+2018,10205,Class I Obese,1
+2018,10205,Normal,1
+2018,10205,Overweight,1
+2018,10206,Class II Obese,1
+2018,10208,Class I Obese,3
+2018,10208,Normal,1
+2018,10208,Overweight,1
+2018,10209,Overweight,2
+2018,10210,Class I Obese,2
+2018,10210,Overweight,1
+2018,10211,Class I Obese,1
+2018,10211,Overweight,1
+2018,10212,Class I Obese,2
+2018,10212,Class III Obese,1
+2018,10212,Overweight,1
+2018,10213,Class II Obese,1
+2018,10213,Normal,4
+2018,10213,Overweight,1
+2018,10303,Class I Obese,2
+2018,10303,Class II Obese,1
+2018,10303,Normal,1
+2018,10303,Overweight,2
+2018,10304,Normal,2
+2018,10305,Normal,1
+2018,10306,Normal,1
+2018,10306,Overweight,2
+2018,10308,Class I Obese,1
+2018,10308,Class II Obese,1
+2018,10308,Class III Obese,1
+2018,10402,Class I Obese,1
+2018,10402,Normal,1
+2018,10402,Overweight,2
+2018,10403,Class II Obese,1
+2018,10403,Normal,1
+2018,10403,Overweight,2
+2018,10403,Underweight,1
+2018,10405,Class III Obese,1
+2018,10406,Class I Obese,1
+2018,10406,Class III Obese,1
+2018,10406,Normal,2
+2018,10406,Overweight,2
+2018,10502,Class I Obese,1
+2018,10502,Class II Obese,1
+2018,10502,Normal,5
+2018,10502,Overweight,2
+2018,10503,Class II Obese,1
+2018,10503,Overweight,1
+2018,10504,Class I Obese,1
+2018,10504,Class III Obese,2
+2018,10504,Normal,1
+2018,10603,Normal,2
+2018,10603,Overweight,1
+2018,10603,Underweight,1
+2018,10604,Class I Obese,1
+2018,10604,Class II Obese,1
+2018,10604,Class III Obese,1
+2018,10604,Overweight,1
+2018,10701,Normal,1
+2018,10701,Overweight,1
+2018,10702,Class I Obese,1
+2018,10702,Normal,1
+2018,10702,Overweight,1
+2018,10801,Class I Obese,2
+2018,10901,Class I Obese,3
+2018,10901,Normal,5
+2018,10902,Class I Obese,1
+2018,10902,Class II Obese,2
+2018,11000,Class I Obese,3
+2018,11000,Class II Obese,1
+2018,11000,Class III Obese,1
+2018,11000,Normal,1
+2018,11000,Overweight,2
+2018,11100,Class I Obese,3
+2018,11100,Class II Obese,1
+2018,11100,Class III Obese,1
+2018,11100,Overweight,1
+2018,11100,Underweight,1
+2018,11202,Class I Obese,1
+2018,11202,Normal,2
+2018,11202,Overweight,1
+2018,11300,Class II Obese,1
+2018,11300,Normal,1
+2018,11402,Class I Obese,1
+2018,11402,Class III Obese,1
+2018,11402,Normal,1
+2018,11402,Overweight,1
+2018,11550,Class I Obese,4
+2018,11550,Class II Obese,1
+2018,11550,Normal,2
+2018,11550,Overweight,2
+2018,11601,Overweight,1
+2018,11602,Class I Obese,2
+2018,11602,Overweight,1
+2018,11701,Class I Obese,1
+2018,11701,Normal,4
+2018,11701,Overweight,2
+2018,11702,Class I Obese,2
+2018,11702,Class II Obese,1
+2018,11709,Class I Obese,2
+2018,11709,Normal,1
+2018,11710,Class III Obese,1
+2018,11710,Normal,2
+2018,11711,Class I Obese,1
+2018,11711,Normal,1
+2018,11712,Class I Obese,1
+2018,11712,Overweight,1
+2018,11720,Class I Obese,2
+2018,11720,Class II Obese,2
+2018,11720,Normal,2
+2018,11720,Overweight,6
+2018,11721,Class I Obese,1
+2018,11721,Class II Obese,2
+2018,11723,Class I Obese,1
+2018,11723,Normal,1
+2018,11723,Overweight,1
+2018,11724,Class I Obese,1
+2018,11724,Normal,2
+2018,11725,Normal,1
+2018,11726,Class I Obese,5
+2018,11726,Class II Obese,1
+2018,11726,Class III Obese,1
+2018,11726,Normal,5
+2018,11726,Overweight,3
+2018,11727,Class I Obese,2
+2018,11727,Normal,1
+2018,11728,Class II Obese,1
+2018,11729,Class I Obese,4
+2018,11729,Normal,2
+2018,11729,Overweight,2
+2018,11730,Class I Obese,1
+2018,11730,Class II Obese,1
+2018,11731,Class I Obese,3
+2018,11731,Class II Obese,2
+2018,11731,Normal,5
+2018,11731,Overweight,1
+2018,11733,Normal,1
+2018,11803,Class I Obese,1
+2018,11803,Class II Obese,1
+2018,11803,Class III Obese,2
+2018,11803,Normal,2
+2018,11804,Class I Obese,1
+2018,11804,Normal,2
+2018,11804,Overweight,1
+2018,11805,Class II Obese,1
+2018,11805,Underweight,1
+2018,11806,Class I Obese,2
+2018,11806,Class II Obese,3
+2018,11806,Class III Obese,1
+2018,11806,Normal,1
+2018,11806,Overweight,1
+2018,11902,Overweight,1
+2018,11903,Class I Obese,2
+2018,11903,Normal,1
+2018,11904,Class I Obese,1
+2018,11904,Class II Obese,1
+2018,11904,Overweight,1
+2018,11904,Underweight,1
+2018,11951,Class I Obese,1
+2018,11951,Class II Obese,1
+2018,11951,Normal,3
+2018,11951,Overweight,1
+2018,11951,Underweight,1
+2018,12001,Class I Obese,2
+2018,12001,Normal,1
+2018,12010,Normal,2
+2018,12010,Overweight,1
+2018,12014,Class I Obese,2
+2018,12014,Normal,1
+2018,12014,Overweight,1
+2018,12022,Class I Obese,1
+2018,12022,Normal,1
+2018,12023,Normal,2
+2018,12024,Class I Obese,3
+2018,12024,Normal,2
+2018,12024,Overweight,1
+2018,12027,Class I Obese,8
+2018,12027,Class II Obese,3
+2018,12027,Normal,3
+2018,12027,Overweight,4
+2018,12032,Overweight,1
+2018,12033,Class I Obese,3
+2018,12033,Class II Obese,1
+2018,12033,Class III Obese,1
+2018,12033,Normal,2
+2018,12033,Overweight,1
+2018,12034,Class I Obese,3
+2018,12034,Class II Obese,1
+2018,12034,Normal,1
+2018,12034,Overweight,6
+2018,12035,Class I Obese,5
+2018,12035,Class II Obese,2
+2018,12035,Class III Obese,1
+2018,12035,Normal,5
+2018,12035,Overweight,7
+2018,12035,Underweight,1
+2018,12036,Class I Obese,9
+2018,12036,Class II Obese,1
+2018,12036,Class III Obese,1
+2018,12036,Normal,7
+2018,12036,Overweight,5
+2018,12038,Normal,1
+2018,12039,Class I Obese,1
+2018,12039,Class II Obese,1
+2018,12041,Class I Obese,2
+2018,12041,Class II Obese,1
+2018,12041,Overweight,2
+2018,12042,Class II Obese,1
+2018,12042,Normal,1
+2018,12042,Overweight,1
+2018,12045,Class I Obese,2
+2018,12045,Normal,1
+2018,12045,Overweight,1
+2018,12046,Overweight,2
+2018,12047,Class I Obese,1
+2018,12047,Overweight,2
+2018,12048,Class I Obese,1
+2018,12048,Normal,1
+2018,12048,Overweight,1
+2018,12049,Class I Obese,1
+2018,12049,Normal,3
+2018,12050,Class I Obese,1
+2018,12050,Class II Obese,1
+2018,12050,Normal,3
+2018,12050,Overweight,1
+2018,12050,Underweight,1
+2018,12051,Class II Obese,1
+2018,12052,Class I Obese,1
+2018,12052,Overweight,1
+2018,12054,Class II Obese,2
+2018,12054,Normal,2
+2018,12054,Overweight,1
+2018,12057,Class I Obese,1
+2018,12057,Class III Obese,1
+2018,12059,Normal,1
+2018,12060,Overweight,1
+2018,12101,Class I Obese,1
+2018,12101,Normal,1
+2018,12102,Normal,1
+2018,12103,Class II Obese,1
+2018,12201,Class I Obese,1
+2018,12201,Class II Obese,1
+2018,12201,Overweight,3
+2018,12202,Class III Obese,1
+2018,12202,Normal,1
+2018,12202,Overweight,1
+2018,12203,Class I Obese,4
+2018,12203,Class II Obese,1
+2018,12203,Normal,2
+2018,12203,Overweight,2
+2018,12204,Class I Obese,1
+2018,12204,Normal,1
+2018,12300,Normal,2
+2018,12401,Overweight,1
+2018,12501,Normal,1
+2018,12505,Class I Obese,1
+2018,12505,Normal,4
+2018,12505,Overweight,1
+2018,12508,Class II Obese,1
+2018,12509,Class I Obese,1
+2018,12509,Normal,3
+2018,12510,Class I Obese,8
+2018,12510,Class II Obese,5
+2018,12510,Normal,6
+2018,12510,Overweight,8
+2018,12510,Underweight,1
+2018,12603,Class I Obese,1
+2018,12603,Normal,1
+2018,12603,Overweight,1
+2018,12607,Overweight,1
+2018,12608,Class I Obese,1
+2018,12608,Normal,1
+2018,12608,Overweight,2
+2018,12701,Class I Obese,5
+2018,12701,Class II Obese,2
+2018,12701,Class III Obese,1
+2018,12701,Normal,1
+2018,12701,Overweight,4
+2018,12705,Class I Obese,1
+2018,12705,Normal,1
+2018,12705,Overweight,1
+2018,12707,Class I Obese,7
+2018,12707,Class II Obese,2
+2018,12707,Class III Obese,2
+2018,12707,Normal,2
+2018,12707,Overweight,6
+2018,12708,Class II Obese,1
+2018,12708,Normal,1
+2018,12708,Overweight,1
+2018,12710,Class I Obese,1
+2018,12710,Class II Obese,1
+2018,12710,Normal,6
+2018,12710,Overweight,4
+2018,12800,Class I Obese,3
+2018,12800,Normal,3
+2018,12800,Overweight,2
+2018,12903,Class I Obese,1
+2018,12903,Overweight,1
+2018,12904,Class I Obese,2
+2018,12904,Normal,1
+2018,12905,Class I Obese,1
+2018,12905,Overweight,1
+2018,12907,Class I Obese,2
+2018,13003,Class I Obese,3
+2018,13003,Normal,1
+2018,13003,Overweight,2
+2018,13005,Class I Obese,1
+2018,13006,Normal,1
+2018,13201,Class I Obese,5
+2018,13201,Normal,4
+2018,13202,Class I Obese,14
+2018,13202,Class II Obese,2
+2018,13202,Normal,8
+2018,13202,Overweight,9
+2018,13205,Normal,1
+2018,13205,Overweight,1
+2018,13207,Class I Obese,1
+2018,13207,Overweight,1
+2018,13208,Class II Obese,1
+2018,13210,Class I Obese,1
+2018,13210,Overweight,1
+2018,13211,Class I Obese,2
+2018,13211,Class II Obese,1
+2018,13211,Normal,5
+2018,13211,Overweight,3
+2018,13212,Class I Obese,1
+2018,13212,Class II Obese,1
+2018,13212,Normal,1
+2018,13212,Overweight,1
+2018,13213,Class I Obese,2
+2018,13213,Class II Obese,1
+2018,13213,Normal,3
+2018,13306,Overweight,1
+2018,13307,Normal,1
+2018,13401,Class I Obese,1
+2018,13401,Normal,1
+2018,13402,Normal,2
+2018,13402,Overweight,2
+2018,13503,Normal,2
+2018,13505,Class I Obese,1
+2018,13507,Class I Obese,1
+2018,13507,Overweight,1
+2018,13508,Class I Obese,1
+2018,13508,Normal,3
+2018,13601,Class I Obese,4
+2018,13601,Class II Obese,1
+2018,13601,Class III Obese,2
+2018,13601,Normal,6
+2018,13601,Overweight,5
+2018,13602,Overweight,2
+2018,13701,Class I Obese,11
+2018,13701,Class II Obese,3
+2018,13701,Class III Obese,3
+2018,13701,Normal,4
+2018,13701,Overweight,5
+2018,13701,Underweight,1
+2018,13702,Class I Obese,5
+2018,13702,Class II Obese,2
+2018,13702,Normal,4
+2018,13702,Overweight,4
+2018,13901,Class I Obese,13
+2018,13901,Class II Obese,4
+2018,13901,Class III Obese,1
+2018,13901,Normal,3
+2018,13901,Overweight,10
+2018,13905,Normal,2
+2018,13907,Class II Obese,1
+2018,13907,Class III Obese,1
+2018,13907,Overweight,3
+2018,13908,Class I Obese,6
+2018,13908,Class II Obese,1
+2018,13908,Normal,1
+2018,13908,Overweight,1
+2018,13910,Class III Obese,1
+2018,13910,Normal,1
+2018,13911,Class I Obese,7
+2018,13911,Class II Obese,2
+2018,13911,Class III Obese,1
+2018,13911,Normal,2
+2018,13911,Overweight,3
+2018,14001,Class I Obese,7
+2018,14001,Class II Obese,3
+2018,14001,Normal,2
+2018,14001,Underweight,1
+2018,14006,Class I Obese,1
+2018,14006,Class III Obese,1
+2018,14006,Overweight,1
+2018,14007,Class I Obese,1
+2018,14007,Class III Obese,1
+2018,14007,Normal,5
+2018,14007,Overweight,2
+2018,14008,Class I Obese,3
+2018,14008,Overweight,1
+2018,14009,Normal,1
+2018,14009,Overweight,1
+2018,14010,Overweight,1
+2018,14011,Class I Obese,2
+2018,14011,Class II Obese,3
+2018,14011,Class III Obese,1
+2018,14011,Normal,6
+2018,14011,Overweight,9
+2018,14012,Class I Obese,14
+2018,14012,Class II Obese,5
+2018,14012,Normal,9
+2018,14012,Overweight,13
+2018,14013,Class I Obese,6
+2018,14013,Class II Obese,3
+2018,14013,Class III Obese,2
+2018,14013,Normal,5
+2018,14013,Overweight,5
+2018,14013,Underweight,1
+2018,14107,Class I Obese,1
+2018,14107,Normal,1
+2018,14107,Overweight,1
+2018,14108,Overweight,3
+2018,14109,Class III Obese,1
+2018,14109,Overweight,1
+2018,14110,Class I Obese,3
+2018,14110,Normal,2
+2018,14110,Overweight,2
+2018,14110,Underweight,1
+2018,14113,Normal,2
+2018,14114,Class I Obese,2
+2018,14114,Class II Obese,1
+2018,14114,Class III Obese,1
+2018,14114,Normal,3
+2018,14114,Overweight,1
+2018,14115,Class I Obese,1
+2018,14115,Overweight,2
+2018,14116,Normal,1
+2018,14122,Class I Obese,4
+2018,14122,Overweight,2
+2018,14123,Overweight,1
+2018,14125,Class I Obese,1
+2018,14125,Class III Obese,1
+2018,14125,Normal,3
+2018,14125,Overweight,3
+2018,14126,Class I Obese,1
+2018,14126,Normal,1
+2018,14127,Class I Obese,1
+2018,14127,Class III Obese,1
+2018,14128,Class I Obese,1
+2018,14129,Class I Obese,1
+2018,14129,Normal,2
+2018,14130,Class I Obese,1
+2018,14130,Normal,1
+2018,14130,Overweight,2
+2018,14131,Class I Obese,5
+2018,14131,Class II Obese,1
+2018,14131,Normal,5
+2018,14131,Overweight,2
+2018,14132,Class I Obese,3
+2018,14132,Class II Obese,1
+2018,14133,Class I Obese,3
+2018,14135,Class I Obese,3
+2018,14135,Underweight,1
+2018,14136,Overweight,1
+2018,14139,Class I Obese,4
+2018,14139,Class III Obese,1
+2018,14139,Normal,1
+2018,14140,Class I Obese,2
+2018,14202,Overweight,2
+2018,14204,Class I Obese,3
+2018,14204,Normal,2
+2018,14204,Overweight,1
+2018,14403,Class I Obese,4
+2018,14403,Class II Obese,5
+2018,14403,Normal,3
+2018,14403,Overweight,4
+2018,14404,Class I Obese,1
+2018,14404,Class II Obese,1
+2018,14405,Class I Obese,4
+2018,14405,Normal,1
+2018,14405,Overweight,2
+2018,14406,Class I Obese,5
+2018,14406,Class II Obese,2
+2018,14406,Class III Obese,1
+2018,14406,Normal,2
+2018,14406,Overweight,4
+2018,14503,Class I Obese,2
+2018,14503,Class III Obese,1
+2018,14503,Normal,2
+2018,14505,Class I Obese,3
+2018,14505,Normal,1
+2018,14506,Class I Obese,6
+2018,14506,Class II Obese,1
+2018,14506,Class III Obese,1
+2018,14506,Normal,3
+2018,14506,Overweight,2
+2018,14506,Underweight,2
+2018,14602,Class I Obese,4
+2018,14602,Class II Obese,3
+2018,14602,Class III Obese,1
+2018,14602,Normal,4
+2018,14602,Overweight,3
+2018,14603,Normal,1
+2018,14604,Class I Obese,2
+2018,14604,Class II Obese,1
+2018,14604,Normal,1
+2018,14604,Overweight,4
+2018,15000,Class I Obese,7
+2018,15000,Class II Obese,1
+2018,15000,Normal,5
+2018,15000,Overweight,2
+2018,15100,Class I Obese,1
+2018,15100,Class III Obese,1
+2018,15100,Normal,1
+2018,15100,Overweight,1
+2018,15300,Overweight,1
+2018,15400,Normal,1
+2018,15500,Normal,1
+2018,15600,Class I Obese,1
+2018,15600,Class II Obese,1
+2018,15600,Normal,1
+2018,15600,Overweight,1
+2018,15700,Class I Obese,2
+2018,15700,Normal,1
+2018,15700,Overweight,2
+2018,15800,Class I Obese,1
+2018,15900,Class I Obese,5
+2018,15900,Normal,2
+2018,15900,Overweight,1
+2018,30000,Class I Obese,2
+2018,30200,Class II Obese,1
+2018,30200,Normal,1
+2018,30200,Overweight,2
+2018,30400,Class II Obese,1
+2018,30400,Normal,1
+2018,30500,Class I Obese,1
+2018,30500,Class II Obese,1
+2018,30600,Class I Obese,1
+2018,30600,Class III Obese,1
+2018,30600,Normal,2
+2018,30700,Overweight,2
+2018,30800,Class III Obese,1
+2018,30800,Normal,1
+2018,30900,Class I Obese,3
+2018,30900,Normal,2
+2018,30900,Overweight,1
+2018,31000,Normal,1
+2018,31000,Overweight,1
+2018,31100,Class I Obese,6
+2018,31100,Class II Obese,1
+2018,31100,Normal,5
+2018,31100,Overweight,5
+2018,31200,Class I Obese,2
+2018,31200,Class II Obese,2
+2018,31200,Overweight,1
+2018,31300,Class I Obese,3
+2018,31300,Class II Obese,1
+2018,31300,Class III Obese,2
+2018,31300,Overweight,3
+2018,31300,Underweight,1
+2018,31400,Class II Obese,1
+2018,31400,Normal,1
+2018,31400,Overweight,4
+2018,60000,Class I Obese,4
+2018,60000,Class II Obese,1
+2018,60000,Normal,1
+2018,60000,Overweight,4
+2018,60100,Class I Obese,2
+2018,60100,Class II Obese,1
+2018,60100,Normal,3
+2018,60100,Overweight,1
+2018,60200,Class I Obese,5
+2018,60300,Class I Obese,1
+2018,60300,Normal,1
+2018,60400,Normal,1
+2018,60400,Overweight,1
+2018,60500,Class I Obese,13
+2018,60500,Class III Obese,2
+2018,60500,Normal,9
+2018,60500,Overweight,10
+2018,60600,Class I Obese,5
+2018,60600,Class II Obese,1
+2018,60600,Class III Obese,2
+2018,60600,Normal,8
+2018,60600,Overweight,6
+2018,60700,Overweight,4
+2018,60800,Class I Obese,6
+2018,60800,Class III Obese,2
+2018,60800,Normal,3
+2018,60800,Overweight,5
+2018,60900,Class I Obese,2
+2018,60900,Class II Obese,1
+2018,60900,Normal,1
+2018,60900,Overweight,2
+2018,61200,Class I Obese,1
+2018,61200,Normal,1
+2018,61300,Overweight,1
+2018,61400,Class I Obese,1
+2018,61400,Normal,2
+2018,80000,Class I Obese,1
+2018,80000,Overweight,3
+2018,80100,Class I Obese,1
+2018,80100,Overweight,4
+2018,80200,Class I Obese,2
+2018,80200,Class II Obese,1
+2018,80200,Normal,2
+2018,80200,Overweight,1
+2018,80300,Class I Obese,2
+2018,80300,Class II Obese,1
+2018,80300,Normal,3
+2018,80300,Overweight,3
+2018,80400,Class I Obese,1
+2018,80400,Normal,2
+2018,80400,Overweight,3
+2018,80500,Class I Obese,2
+2018,80500,Class II Obese,2
+2018,80600,Class III Obese,1
+2018,80600,Normal,2
+2018,80600,Overweight,1
+2018,80700,Class I Obese,3
+2018,80700,Normal,1
+2018,80700,Overweight,3
+2018,80800,Class II Obese,1
+2018,80800,Overweight,1
+2018,80900,Class II Obese,2
+2018,80900,Class III Obese,1
+2018,80900,Normal,1
+2018,80900,Overweight,2
+2018,81000,Class I Obese,3
+2018,81000,Class II Obese,2
+2018,81000,Overweight,3
+2018,81100,Class I Obese,1
+2018,81100,Normal,3
+2018,81100,Overweight,1
+2018,81100,Underweight,1
+2018,81200,Overweight,1
+2018,81300,Class III Obese,1
+2018,81300,Normal,1
+2018,81300,Overweight,1
+2018,81400,Class I Obese,3
+2018,81400,Class II Obese,1
+2018,81400,Normal,1
+2018,81400,Overweight,5
+2018,81500,Class I Obese,1
+2018,81500,Class II Obese,1
+2018,81500,Overweight,1
+2018,81600,Class I Obese,2
+2018,81600,Normal,1
+2018,81600,Overweight,2
+2018,81700,Class I Obese,1
+2018,81700,Normal,2
+2018,81700,Overweight,1
+2018,81700,Underweight,2
+2018,81800,Class I Obese,1
+2018,81900,Class I Obese,2
+2018,81900,Overweight,2
+2018,82000,Class I Obese,3
+2018,82000,Normal,1
+2018,82000,Overweight,2
+2018,82100,Class I Obese,1
+2018,82100,Class II Obese,1
+2018,82100,Normal,1
+2018,82200,Class II Obese,1
+2018,82200,Normal,1
+2018,82200,Overweight,1
+2018,82300,Class I Obese,2
+2018,82400,Class I Obese,1
+2018,82400,Overweight,2
+2018,82500,Class II Obese,1
+2018,82600,Class I Obese,3
+2018,82600,Normal,1
+2018,82600,Overweight,2
+2018,82700,Class III Obese,1
+2018,83000,Class I Obese,3
+2018,83000,Normal,5
+2018,83000,Overweight,1
+2018,83000,Underweight,1
+2018,83100,Class I Obese,3
+2018,83100,Class II Obese,1
+2018,83100,Class III Obese,1
+2018,83100,Normal,2
+2018,83200,Class I Obese,2
+2018,83200,Class II Obese,2
+2018,83200,Normal,1
+2018,83200,Overweight,3
+2018,83300,Class I Obese,1
+2018,83300,Overweight,1
+2018,83400,Class I Obese,3
+2018,83400,Normal,4
+2018,83600,Class I Obese,1
+2018,83600,Class II Obese,1
+2018,83600,Overweight,3
+2018,83700,Class I Obese,5
+2018,83700,Class II Obese,1
+2018,83700,Normal,5
+2018,83700,Overweight,4
+2018,83700,Underweight,1
+2018,83800,Normal,1
+2018,83900,Class II Obese,1
+2018,83900,Overweight,2
+2018,84000,Overweight,1
+2018,84200,Class I Obese,1
+2018,84300,Normal,1
+2018,84500,Class I Obese,1
+2018,84600,Class I Obese,2
+2018,84600,Overweight,1
+2018,84700,Class I Obese,1
+2018,84700,Overweight,2
+2018,84900,Class I Obese,3
+2018,84900,Overweight,1
+2018,85000,Class I Obese,1
+2018,85000,Class III Obese,1
+2018,85000,Normal,1
+2018,85100,Class II Obese,1
+2018,85100,Normal,2
+2018,85100,Overweight,1
+2018,85200,Class I Obese,1
+2018,85200,Class II Obese,1
+2018,85200,Normal,2
+2018,85300,Normal,1
+2018,85400,Overweight,1
+2018,85500,Class I Obese,1
+2018,85500,Class III Obese,1
+2018,85700,Class I Obese,1
+2018,85700,Class II Obese,1
+2018,85800,Class I Obese,1
+2018,85800,Class III Obese,1
+2018,85800,Overweight,3
+2018,85900,Class I Obese,5
+2018,85900,Class II Obese,1
+2018,85900,Class III Obese,1
+2018,85900,Normal,3
+2018,85900,Overweight,1
+2018,86000,Normal,1
+2018,86000,Overweight,3
+2018,86100,Class I Obese,2
+2018,86100,Class III Obese,1
+2018,86200,Normal,2
+2018,86200,Overweight,1
+2018,86200,Underweight,1
+2018,86300,Class I Obese,2
+2018,86300,Class II Obese,1
+2018,86300,Normal,1
+2018,86400,Class I Obese,2
+2018,86400,Normal,2
+2018,86400,Overweight,3
+2018,86400,Underweight,1
+2018,86500,Class I Obese,2
+2018,86500,Normal,1
+2018,86500,Overweight,2
+2018,86600,Overweight,1
+2018,86700,Class I Obese,2
+2018,86700,Class II Obese,1
+2018,86700,Normal,1
+2018,86700,Overweight,2
+2018,86800,Class I Obese,1
+2018,86800,Normal,1
+2018,86800,Overweight,1
+2018,86800,Underweight,1
+2018,86900,Class I Obese,1
+2018,86900,Class II Obese,1
+2018,87000,Class II Obese,1
+2018,87000,Normal,1
+2018,87000,Overweight,1
+2018,87100,Class I Obese,2
+2018,87200,Class I Obese,2
+2018,87200,Normal,2
+2018,87200,Overweight,2
+2018,87300,Class I Obese,1
+2018,87300,Normal,2
+2018,87300,Overweight,1
+2018,961204,Class I Obese,6
+2018,961204,Normal,5
+2018,961204,Overweight,2
+2018,961206,Overweight,1
+2018,961208,Class I Obese,1
+2018,961208,Overweight,1
+2018,980000,Class I Obese,13
+2018,980000,Class II Obese,2
+2018,980000,Class III Obese,3
+2018,980000,Normal,4
+2018,980000,Overweight,9
+2018,980000,Underweight,1
+2018,980100,Class I Obese,1
+2018,980100,Normal,3
+2018,980400,Class I Obese,1
+2018,988700,Class I Obese,6
+2018,988700,Class II Obese,3
+2018,988700,Normal,8
+2018,988700,Overweight,1
+2018,NA,Class I Obese,2
+2018,NA,Normal,20
+2018,NA,Overweight,1
+2018,NA,Underweight,11
+2019,102,Class I Obese,2
+2019,102,Normal,2
+2019,102,Overweight,2
+2019,201,Normal,1
+2019,201,Overweight,1
+2019,201,Underweight,1
+2019,202,Class II Obese,1
+2019,202,Normal,3
+2019,202,Overweight,3
+2019,301,Class I Obese,4
+2019,301,Normal,2
+2019,301,Overweight,1
+2019,303,Class III Obese,1
+2019,401,Normal,1
+2019,502,Class I Obese,1
+2019,502,Overweight,1
+2019,600,Class II Obese,1
+2019,600,Normal,1
+2019,702,Class I Obese,1
+2019,702,Class III Obese,1
+2019,702,Overweight,2
+2019,800,Class I Obese,3
+2019,800,Class II Obese,1
+2019,800,Overweight,2
+2019,902,Class I Obese,2
+2019,902,Normal,1
+2019,903,Class I Obese,1
+2019,903,Class III Obese,1
+2019,904,Class II Obese,1
+2019,904,Normal,1
+2019,904,Overweight,1
+2019,905,Class II Obese,1
+2019,905,Normal,1
+2019,1000,Class II Obese,1
+2019,1000,Normal,1
+2019,1101,Class II Obese,1
+2019,1101,Normal,1
+2019,1101,Underweight,1
+2019,1102,Class II Obese,1
+2019,1102,Normal,1
+2019,1301,Class I Obese,4
+2019,1301,Overweight,1
+2019,1302,Class III Obese,1
+2019,1302,Normal,2
+2019,1302,Overweight,1
+2019,1401,Class I Obese,3
+2019,1401,Class III Obese,1
+2019,1402,Class II Obese,1
+2019,1402,Normal,1
+2019,1403,Class I Obese,1
+2019,1403,Normal,2
+2019,1403,Overweight,2
+2019,1500,Class I Obese,4
+2019,1500,Class II Obese,1
+2019,1500,Normal,1
+2019,1500,Overweight,3
+2019,1600,Class I Obese,1
+2019,1600,Class II Obese,1
+2019,1600,Normal,1
+2019,1600,Overweight,2
+2019,1701,Class I Obese,1
+2019,1702,Class I Obese,2
+2019,1702,Class II Obese,1
+2019,1702,Normal,1
+2019,1702,Overweight,1
+2019,1800,Class I Obese,1
+2019,1800,Overweight,1
+2019,1901,Class I Obese,1
+2019,1901,Class II Obese,1
+2019,1901,Normal,2
+2019,1901,Overweight,3
+2019,1902,Class I Obese,6
+2019,1902,Class II Obese,2
+2019,1902,Normal,2
+2019,1902,Overweight,3
+2019,1906,Class I Obese,3
+2019,1906,Overweight,3
+2019,1907,Class I Obese,4
+2019,1907,Class II Obese,1
+2019,1907,Class III Obese,1
+2019,1907,Normal,1
+2019,1907,Overweight,2
+2019,1908,Class I Obese,1
+2019,1908,Class II Obese,1
+2019,1908,Class III Obese,1
+2019,1908,Normal,1
+2019,1908,Overweight,3
+2019,2000,Class I Obese,2
+2019,2000,Class III Obese,2
+2019,2000,Overweight,2
+2019,2005,Class I Obese,1
+2019,2005,Normal,1
+2019,2006,Class I Obese,1
+2019,2006,Overweight,1
+2019,2007,Class II Obese,1
+2019,2007,Class III Obese,1
+2019,2007,Normal,1
+2019,2007,Overweight,1
+2019,2008,Class I Obese,2
+2019,2008,Class III Obese,1
+2019,2009,Class I Obese,5
+2019,2009,Class II Obese,1
+2019,2009,Class III Obese,1
+2019,2009,Normal,2
+2019,2009,Overweight,2
+2019,2010,Class I Obese,7
+2019,2010,Class II Obese,2
+2019,2010,Overweight,3
+2019,2011,Normal,1
+2019,2017,Class I Obese,1
+2019,2100,Class I Obese,3
+2019,2100,Class II Obese,1
+2019,2100,Normal,2
+2019,2100,Overweight,2
+2019,2103,Class I Obese,9
+2019,2103,Class II Obese,5
+2019,2103,Class III Obese,2
+2019,2103,Normal,4
+2019,2103,Overweight,4
+2019,2300,Class I Obese,1
+2019,2403,Class I Obese,1
+2019,2403,Overweight,1
+2019,2502,Class III Obese,1
+2019,2502,Overweight,1
+2019,2601,Overweight,1
+2019,2701,Overweight,1
+2019,2702,Normal,2
+2019,2702,Overweight,1
+2019,2801,Class I Obese,1
+2019,2801,Normal,1
+2019,2802,Class II Obese,1
+2019,2802,Overweight,1
+2019,2901,Class I Obese,1
+2019,2901,Class III Obese,1
+2019,2901,Normal,1
+2019,2901,Overweight,2
+2019,2902,Class I Obese,2
+2019,3001,Normal,2
+2019,3001,Overweight,2
+2019,3003,Class III Obese,1
+2019,3004,Class I Obese,3
+2019,3101,Normal,1
+2019,3102,Class I Obese,2
+2019,3102,Overweight,1
+2019,3201,Class I Obese,4
+2019,3201,Class III Obese,2
+2019,3201,Overweight,1
+2019,3202,Class I Obese,1
+2019,3202,Normal,1
+2019,3203,Class II Obese,1
+2019,3203,Normal,1
+2019,3203,Overweight,1
+2019,3300,Class I Obese,2
+2019,3300,Normal,1
+2019,3401,Class I Obese,1
+2019,3401,Normal,1
+2019,3402,Class I Obese,3
+2019,3402,Class II Obese,1
+2019,3500,Class I Obese,6
+2019,3500,Class II Obese,2
+2019,3500,Class III Obese,1
+2019,3500,Normal,2
+2019,3500,Overweight,3
+2019,3601,Class I Obese,4
+2019,3601,Class II Obese,1
+2019,3601,Class III Obese,1
+2019,3601,Overweight,1
+2019,3602,Class I Obese,3
+2019,3602,Class II Obese,1
+2019,3602,Overweight,2
+2019,3603,Class I Obese,2
+2019,3603,Class II Obese,1
+2019,3603,Class III Obese,1
+2019,3603,Overweight,2
+2019,3701,Class I Obese,1
+2019,3701,Class II Obese,2
+2019,3701,Normal,1
+2019,3702,Class I Obese,3
+2019,3702,Class III Obese,1
+2019,3703,Normal,1
+2019,3703,Overweight,1
+2019,3800,Class I Obese,4
+2019,3901,Class II Obese,1
+2019,3901,Normal,1
+2019,3901,Overweight,3
+2019,3902,Class I Obese,2
+2019,3902,Normal,1
+2019,3902,Overweight,3
+2019,4002,Class I Obese,1
+2019,4002,Normal,2
+2019,4002,Overweight,1
+2019,4003,Class II Obese,2
+2019,4003,Overweight,2
+2019,4004,Class I Obese,1
+2019,4004,Class II Obese,1
+2019,4004,Normal,2
+2019,4005,Class II Obese,1
+2019,4006,Class I Obese,1
+2019,4006,Class II Obese,2
+2019,4006,Class III Obese,1
+2019,4101,Class I Obese,4
+2019,4101,Class II Obese,1
+2019,4101,Class III Obese,1
+2019,4101,Overweight,1
+2019,4102,Class I Obese,3
+2019,4103,Class I Obese,2
+2019,4103,Normal,1
+2019,4103,Overweight,3
+2019,4104,Class I Obese,1
+2019,4104,Class III Obese,1
+2019,4104,Overweight,4
+2019,4106,Class I Obese,12
+2019,4106,Class II Obese,4
+2019,4106,Normal,3
+2019,4106,Overweight,7
+2019,4107,Class I Obese,5
+2019,4107,Class III Obese,1
+2019,4107,Overweight,5
+2019,4201,Normal,3
+2019,4201,Overweight,4
+2019,4202,Class I Obese,1
+2019,4202,Class II Obese,2
+2019,4202,Overweight,1
+2019,4301,Normal,1
+2019,4302,Class I Obese,1
+2019,4303,Class I Obese,3
+2019,4303,Class II Obese,1
+2019,4303,Class III Obese,2
+2019,4303,Normal,2
+2019,4303,Overweight,2
+2019,4304,Class I Obese,3
+2019,4304,Normal,1
+2019,4304,Overweight,2
+2019,4306,Class I Obese,1
+2019,4306,Class II Obese,3
+2019,4306,Normal,4
+2019,4306,Overweight,3
+2019,4403,Class II Obese,1
+2019,4404,Class I Obese,2
+2019,4404,Overweight,2
+2019,4405,Class I Obese,10
+2019,4405,Class II Obese,1
+2019,4405,Normal,4
+2019,4405,Overweight,5
+2019,4503,Class I Obese,2
+2019,4504,Normal,2
+2019,4504,Overweight,1
+2019,4505,Class I Obese,1
+2019,4505,Overweight,1
+2019,4601,Class I Obese,3
+2019,4601,Class II Obese,1
+2019,4601,Overweight,1
+2019,4602,Class III Obese,1
+2019,4602,Overweight,3
+2019,4603,Normal,1
+2019,4700,Class I Obese,1
+2019,4700,Normal,1
+2019,4801,Overweight,1
+2019,4952,Class I Obese,1
+2019,5001,Class I Obese,2
+2019,5001,Class II Obese,2
+2019,5001,Normal,1
+2019,5002,Class I Obese,3
+2019,5002,Class II Obese,1
+2019,5002,Normal,3
+2019,5002,Overweight,2
+2019,5102,Class I Obese,2
+2019,5102,Overweight,1
+2019,5104,Overweight,1
+2019,5200,Class I Obese,3
+2019,5200,Class III Obese,1
+2019,5200,Normal,1
+2019,5200,Overweight,3
+2019,5300,Class II Obese,1
+2019,5502,Class I Obese,6
+2019,5502,Class II Obese,2
+2019,5502,Class III Obese,1
+2019,5502,Normal,1
+2019,5502,Overweight,1
+2019,5503,Class I Obese,2
+2019,5503,Overweight,1
+2019,5551,Class I Obese,5
+2019,5551,Class II Obese,3
+2019,5551,Normal,1
+2019,5551,Overweight,2
+2019,5552,Class I Obese,2
+2019,5552,Class II Obese,1
+2019,5552,Normal,1
+2019,5553,Class I Obese,1
+2019,5553,Class II Obese,1
+2019,5553,Overweight,3
+2019,5611,Class I Obese,4
+2019,5611,Class III Obese,2
+2019,5611,Normal,1
+2019,5611,Overweight,2
+2019,5612,Class I Obese,6
+2019,5612,Class III Obese,1
+2019,5612,Overweight,2
+2019,5614,Class I Obese,2
+2019,5614,Overweight,1
+2019,5619,Class I Obese,6
+2019,5619,Normal,1
+2019,5619,Overweight,7
+2019,5620,Normal,1
+2019,5621,Class I Obese,1
+2019,5621,Normal,1
+2019,5621,Overweight,1
+2019,5622,Class I Obese,1
+2019,5622,Class II Obese,1
+2019,5622,Class III Obese,1
+2019,5622,Normal,1
+2019,5622,Overweight,2
+2019,5623,Class I Obese,1
+2019,5623,Class III Obese,1
+2019,5623,Overweight,1
+2019,5624,Normal,1
+2019,5625,Class I Obese,1
+2019,5625,Class II Obese,1
+2019,5625,Overweight,1
+2019,5626,Class I Obese,2
+2019,5626,Normal,1
+2019,5626,Overweight,1
+2019,5627,Class I Obese,4
+2019,5627,Class II Obese,3
+2019,5627,Overweight,2
+2019,5627,Underweight,1
+2019,5628,Class I Obese,5
+2019,5628,Normal,2
+2019,5629,Class I Obese,4
+2019,5629,Class II Obese,2
+2019,5629,Normal,1
+2019,5629,Overweight,4
+2019,5630,Class I Obese,1
+2019,5630,Normal,1
+2019,5630,Overweight,1
+2019,5631,Class I Obese,1
+2019,5631,Class II Obese,1
+2019,5631,Normal,3
+2019,5632,Class III Obese,2
+2019,5632,Normal,2
+2019,5632,Overweight,2
+2019,5633,Overweight,2
+2019,5634,Class I Obese,3
+2019,5634,Class III Obese,1
+2019,5634,Normal,1
+2019,5634,Overweight,2
+2019,5635,Class I Obese,5
+2019,5635,Class II Obese,1
+2019,5635,Normal,1
+2019,5635,Overweight,2
+2019,5636,Class I Obese,2
+2019,5636,Class II Obese,2
+2019,5636,Overweight,6
+2019,5700,Class I Obese,1
+2019,5700,Overweight,1
+2019,5800,Class I Obese,1
+2019,5951,Class II Obese,3
+2019,5951,Normal,1
+2019,5952,Class I Obese,1
+2019,5952,Overweight,1
+2019,6000,Class I Obese,1
+2019,6000,Class II Obese,1
+2019,6000,Class III Obese,1
+2019,6000,Normal,1
+2019,6000,Overweight,1
+2019,6100,Class I Obese,1
+2019,6100,Normal,1
+2019,6200,Overweight,1
+2019,6300,Class I Obese,1
+2019,6300,Overweight,1
+2019,6400,Class I Obese,2
+2019,6400,Class III Obese,2
+2019,6400,Normal,1
+2019,6400,Overweight,1
+2019,6501,Class I Obese,1
+2019,6502,Class III Obese,1
+2019,6601,Class I Obese,1
+2019,6601,Class II Obese,2
+2019,6601,Overweight,2
+2019,6603,Class I Obese,1
+2019,6603,Overweight,2
+2019,6604,Class I Obese,9
+2019,6604,Class II Obese,1
+2019,6604,Overweight,1
+2019,6701,Class I Obese,1
+2019,6701,Normal,4
+2019,6704,Class I Obese,8
+2019,6704,Class II Obese,2
+2019,6704,Class III Obese,2
+2019,6704,Normal,5
+2019,6704,Overweight,8
+2019,6705,Class I Obese,4
+2019,6705,Class II Obese,4
+2019,6705,Class III Obese,1
+2019,6705,Normal,5
+2019,6705,Overweight,3
+2019,6706,Class I Obese,3
+2019,6706,Class II Obese,1
+2019,6706,Normal,2
+2019,6706,Overweight,5
+2019,6707,Class I Obese,1
+2019,6707,Class III Obese,3
+2019,6707,Normal,1
+2019,6707,Overweight,3
+2019,6708,Class I Obese,1
+2019,6708,Class II Obese,1
+2019,6708,Class III Obese,1
+2019,6708,Normal,2
+2019,6708,Overweight,2
+2019,6709,Class I Obese,3
+2019,6709,Class II Obese,2
+2019,6709,Normal,2
+2019,6709,Overweight,3
+2019,6711,Class I Obese,6
+2019,6711,Class III Obese,1
+2019,6711,Overweight,3
+2019,6712,Class I Obese,4
+2019,6712,Class II Obese,2
+2019,6712,Class III Obese,2
+2019,6712,Normal,4
+2019,6712,Overweight,4
+2019,6713,Class I Obese,1
+2019,6713,Normal,1
+2019,6804,Class III Obese,1
+2019,6804,Overweight,3
+2019,6808,Class I Obese,2
+2019,6808,Class II Obese,1
+2019,6808,Normal,1
+2019,6808,Overweight,5
+2019,6809,Class I Obese,2
+2019,6809,Class III Obese,1
+2019,6809,Normal,2
+2019,6809,Overweight,3
+2019,6810,Class I Obese,2
+2019,6810,Class II Obese,2
+2019,6810,Normal,3
+2019,6810,Overweight,3
+2019,6811,Class I Obese,3
+2019,6811,Normal,2
+2019,6811,Overweight,1
+2019,6812,Class I Obese,1
+2019,6812,Class II Obese,1
+2019,6812,Normal,2
+2019,6812,Overweight,1
+2019,6813,Class I Obese,3
+2019,6813,Normal,1
+2019,6813,Overweight,1
+2019,6814,Class I Obese,3
+2019,6814,Class II Obese,2
+2019,6814,Normal,3
+2019,6814,Overweight,2
+2019,6815,Class I Obese,3
+2019,6815,Class II Obese,1
+2019,6815,Class III Obese,2
+2019,6815,Normal,1
+2019,6815,Overweight,2
+2019,6854,Class I Obese,16
+2019,6854,Class II Obese,3
+2019,6854,Normal,3
+2019,6854,Overweight,6
+2019,6855,Class I Obese,5
+2019,6855,Class II Obese,3
+2019,6855,Class III Obese,2
+2019,6855,Normal,1
+2019,6855,Overweight,6
+2019,6856,Class I Obese,13
+2019,6856,Class II Obese,4
+2019,6856,Class III Obese,2
+2019,6856,Normal,5
+2019,6856,Overweight,12
+2019,6856,Underweight,1
+2019,6858,Class I Obese,4
+2019,6858,Overweight,2
+2019,6901,Class I Obese,2
+2019,6901,Class II Obese,1
+2019,6901,Normal,1
+2019,7006,Class II Obese,1
+2019,7006,Class III Obese,1
+2019,7006,Overweight,3
+2019,7013,Class I Obese,1
+2019,7013,Underweight,1
+2019,7037,Overweight,1
+2019,7088,Class I Obese,1
+2019,7088,Class II Obese,2
+2019,7088,Class III Obese,1
+2019,7088,Normal,3
+2019,7089,Class II Obese,2
+2019,7089,Normal,1
+2019,7101,Class I Obese,2
+2019,7101,Class II Obese,1
+2019,7101,Normal,1
+2019,7101,Underweight,1
+2019,7103,Class I Obese,7
+2019,7103,Class II Obese,2
+2019,7103,Class III Obese,2
+2019,7103,Normal,5
+2019,7103,Overweight,5
+2019,7104,Class I Obese,14
+2019,7104,Class II Obese,7
+2019,7104,Class III Obese,2
+2019,7104,Normal,4
+2019,7104,Overweight,7
+2019,7105,Class I Obese,2
+2019,7105,Class II Obese,2
+2019,7105,Class III Obese,4
+2019,7105,Normal,4
+2019,7105,Overweight,6
+2019,7106,Class I Obese,3
+2019,7106,Class II Obese,4
+2019,7106,Normal,2
+2019,7106,Overweight,1
+2019,7106,Underweight,1
+2019,7107,Class I Obese,2
+2019,7107,Class II Obese,2
+2019,7107,Normal,1
+2019,7107,Overweight,1
+2019,7201,Class I Obese,1
+2019,7201,Overweight,1
+2019,7202,Class I Obese,2
+2019,7202,Class III Obese,1
+2019,7202,Normal,1
+2019,7202,Overweight,1
+2019,7301,Class I Obese,1
+2019,7301,Normal,1
+2019,7302,Class I Obese,2
+2019,7302,Class II Obese,1
+2019,7302,Overweight,2
+2019,7400,Class I Obese,2
+2019,7400,Overweight,2
+2019,7500,Class I Obese,2
+2019,7500,Class II Obese,1
+2019,7600,Class I Obese,3
+2019,7600,Overweight,1
+2019,7702,Class I Obese,2
+2019,7702,Normal,2
+2019,7702,Overweight,1
+2019,7703,Class I Obese,2
+2019,7703,Class II Obese,2
+2019,7703,Normal,1
+2019,7703,Overweight,2
+2019,7704,Normal,1
+2019,7801,Overweight,1
+2019,7900,Class I Obese,2
+2019,7900,Normal,1
+2019,7900,Overweight,2
+2019,8000,Class I Obese,2
+2019,8000,Class II Obese,1
+2019,8000,Normal,1
+2019,8000,Overweight,1
+2019,8100,Class I Obese,4
+2019,8100,Overweight,1
+2019,8200,Class I Obese,2
+2019,8200,Overweight,2
+2019,8305,Class I Obese,1
+2019,8308,Class I Obese,3
+2019,8308,Normal,2
+2019,8308,Underweight,1
+2019,8309,Class I Obese,1
+2019,8309,Normal,1
+2019,8309,Overweight,3
+2019,8312,Class I Obese,2
+2019,8312,Normal,1
+2019,8353,Class I Obese,11
+2019,8353,Class II Obese,6
+2019,8353,Normal,12
+2019,8353,Overweight,11
+2019,8387,Class I Obese,2
+2019,8388,Overweight,1
+2019,8401,Class I Obese,10
+2019,8401,Class II Obese,3
+2019,8401,Class III Obese,1
+2019,8401,Normal,6
+2019,8401,Overweight,16
+2019,8402,Class I Obese,3
+2019,8402,Class III Obese,1
+2019,8402,Normal,1
+2019,8402,Overweight,1
+2019,8505,Normal,2
+2019,8505,Overweight,4
+2019,8506,Class II Obese,1
+2019,8506,Overweight,2
+2019,8507,Class I Obese,2
+2019,8507,Class II Obese,1
+2019,8507,Overweight,2
+2019,8508,Normal,2
+2019,8523,Class I Obese,17
+2019,8523,Class II Obese,4
+2019,8523,Class III Obese,5
+2019,8523,Normal,11
+2019,8523,Overweight,15
+2019,8524,Class I Obese,2
+2019,8524,Overweight,1
+2019,8526,Class I Obese,6
+2019,8526,Class III Obese,3
+2019,8526,Normal,1
+2019,8526,Overweight,3
+2019,8529,Normal,2
+2019,8533,Class I Obese,1
+2019,8533,Class II Obese,1
+2019,8533,Normal,2
+2019,8533,Overweight,1
+2019,8534,Class II Obese,1
+2019,8534,Normal,1
+2019,8534,Overweight,2
+2019,8535,Class I Obese,4
+2019,8535,Overweight,6
+2019,8536,Class I Obese,1
+2019,8536,Class II Obese,1
+2019,8537,Class I Obese,1
+2019,8537,Class II Obese,1
+2019,8537,Overweight,3
+2019,8539,Class I Obese,1
+2019,8539,Class III Obese,1
+2019,8539,Overweight,1
+2019,8540,Class I Obese,4
+2019,8540,Class III Obese,1
+2019,8540,Normal,2
+2019,8540,Overweight,4
+2019,8541,Class I Obese,2
+2019,8541,Class III Obese,1
+2019,8541,Normal,3
+2019,8541,Overweight,5
+2019,8542,Class I Obese,1
+2019,8542,Normal,1
+2019,8542,Overweight,3
+2019,8543,Class I Obese,4
+2019,8543,Class III Obese,1
+2019,8545,Class I Obese,4
+2019,8545,Overweight,1
+2019,8546,Class I Obese,2
+2019,8547,Class I Obese,1
+2019,8548,Class I Obese,2
+2019,8548,Overweight,1
+2019,8549,Class I Obese,1
+2019,8549,Overweight,1
+2019,8550,Class III Obese,1
+2019,8550,Normal,1
+2019,8550,Overweight,2
+2019,8551,Class I Obese,3
+2019,8551,Class II Obese,2
+2019,8551,Normal,2
+2019,8551,Overweight,1
+2019,8603,Class I Obese,1
+2019,8606,Normal,1
+2019,8606,Overweight,1
+2019,8705,Class I Obese,1
+2019,8705,Normal,1
+2019,8709,Class II Obese,2
+2019,8709,Class III Obese,1
+2019,8709,Normal,2
+2019,8709,Overweight,1
+2019,8801,Overweight,1
+2019,8802,Class I Obese,4
+2019,8802,Class II Obese,2
+2019,8802,Class III Obese,1
+2019,8802,Overweight,3
+2019,8901,Class I Obese,2
+2019,9001,Class I Obese,2
+2019,9001,Class II Obese,1
+2019,9001,Class III Obese,2
+2019,9001,Overweight,1
+2019,9002,Class I Obese,1
+2019,9002,Normal,1
+2019,9002,Overweight,2
+2019,9101,Class II Obese,1
+2019,9101,Overweight,1
+2019,9103,Class I Obese,4
+2019,9103,Class II Obese,3
+2019,9103,Normal,3
+2019,9103,Overweight,1
+2019,9104,Normal,1
+2019,9202,Class I Obese,1
+2019,9202,Class II Obese,1
+2019,9203,Class I Obese,1
+2019,9203,Class II Obese,1
+2019,9203,Normal,1
+2019,9203,Overweight,2
+2019,9204,Class I Obese,1
+2019,9204,Class II Obese,1
+2019,9204,Normal,1
+2019,9204,Overweight,1
+2019,9207,Class I Obese,2
+2019,9304,Class III Obese,2
+2019,9304,Overweight,3
+2019,9306,Class I Obese,1
+2019,9308,Class I Obese,1
+2019,9308,Class II Obese,2
+2019,9308,Normal,1
+2019,9308,Overweight,1
+2019,9309,Class II Obese,1
+2019,9310,Normal,1
+2019,9310,Overweight,2
+2019,9316,Class I Obese,2
+2019,9316,Class III Obese,1
+2019,9320,Class I Obese,2
+2019,9321,Overweight,1
+2019,9322,Class I Obese,1
+2019,9323,Class I Obese,1
+2019,9323,Overweight,2
+2019,9325,Class I Obese,1
+2019,9325,Class III Obese,1
+2019,9327,Class I Obese,1
+2019,9327,Class II Obese,2
+2019,9401,Class I Obese,4
+2019,9401,Class II Obese,1
+2019,9401,Overweight,4
+2019,9406,Class I Obese,2
+2019,9407,Class I Obese,3
+2019,9407,Normal,1
+2019,9408,Class I Obese,2
+2019,9408,Normal,1
+2019,9408,Overweight,2
+2019,9409,Class I Obese,2
+2019,9409,Class II Obese,1
+2019,9409,Overweight,1
+2019,9410,Class I Obese,3
+2019,9410,Overweight,4
+2019,9411,Class II Obese,1
+2019,9501,Overweight,1
+2019,9502,Class I Obese,1
+2019,9502,Class II Obese,1
+2019,9502,Class III Obese,2
+2019,9502,Overweight,3
+2019,9553,Class I Obese,3
+2019,9553,Class II Obese,4
+2019,9553,Normal,1
+2019,9553,Overweight,2
+2019,9603,Class II Obese,1
+2019,9603,Normal,1
+2019,9604,Class II Obese,1
+2019,9604,Overweight,1
+2019,9606,Normal,1
+2019,9607,Class I Obese,2
+2019,9607,Class III Obese,1
+2019,9607,Overweight,2
+2019,9608,Class II Obese,2
+2019,9751,Class I Obese,3
+2019,9751,Class II Obese,2
+2019,9751,Normal,2
+2019,9752,Class I Obese,2
+2019,9752,Overweight,1
+2019,9806,Class I Obese,2
+2019,9806,Class II Obese,1
+2019,9806,Class III Obese,1
+2019,9806,Normal,1
+2019,9806,Overweight,1
+2019,9808,Class I Obese,24
+2019,9808,Class II Obese,7
+2019,9808,Class III Obese,4
+2019,9808,Normal,16
+2019,9808,Overweight,19
+2019,9808,Underweight,1
+2019,9815,Class I Obese,2
+2019,9815,Class II Obese,2
+2019,9815,Normal,1
+2019,9815,Overweight,3
+2019,9823,Class I Obese,1
+2019,9824,Class I Obese,1
+2019,9824,Class II Obese,2
+2019,9824,Normal,1
+2019,9827,Class I Obese,2
+2019,9827,Class II Obese,2
+2019,9827,Normal,1
+2019,9827,Overweight,2
+2019,9828,Class I Obese,6
+2019,9828,Class II Obese,1
+2019,9828,Overweight,1
+2019,9829,Class II Obese,2
+2019,9829,Normal,3
+2019,9829,Overweight,1
+2019,9831,Overweight,1
+2019,9832,Class I Obese,1
+2019,9832,Normal,1
+2019,9832,Underweight,1
+2019,9833,Class I Obese,3
+2019,9833,Overweight,2
+2019,9834,Class II Obese,1
+2019,9834,Normal,1
+2019,9834,Overweight,2
+2019,9835,Class III Obese,1
+2019,9835,Normal,1
+2019,9836,Class I Obese,4
+2019,9836,Overweight,1
+2019,9837,Class I Obese,3
+2019,9837,Class II Obese,1
+2019,9837,Normal,3
+2019,9837,Overweight,2
+2019,9838,Class II Obese,1
+2019,9838,Normal,1
+2019,9839,Overweight,2
+2019,9840,Class I Obese,1
+2019,9840,Class III Obese,1
+2019,9840,Normal,1
+2019,9841,Normal,1
+2019,9841,Overweight,1
+2019,9843,Class I Obese,2
+2019,9845,Class I Obese,8
+2019,9845,Class II Obese,2
+2019,9845,Normal,4
+2019,9845,Overweight,7
+2019,9849,Class I Obese,5
+2019,9849,Class II Obese,1
+2019,9849,Normal,2
+2019,9849,Overweight,2
+2019,9850,Class I Obese,4
+2019,9850,Class III Obese,1
+2019,9850,Normal,2
+2019,9851,Overweight,1
+2019,9852,Class I Obese,2
+2019,9900,Class I Obese,3
+2019,9900,Normal,1
+2019,9900,Overweight,1
+2019,10000,Class I Obese,1
+2019,10000,Class II Obese,1
+2019,10000,Normal,1
+2019,10000,Overweight,2
+2019,10100,Class II Obese,2
+2019,10100,Normal,2
+2019,10100,Overweight,1
+2019,10205,Class I Obese,1
+2019,10206,Class I Obese,1
+2019,10208,Class I Obese,2
+2019,10209,Normal,1
+2019,10209,Overweight,1
+2019,10210,Class I Obese,1
+2019,10210,Class II Obese,1
+2019,10210,Overweight,1
+2019,10211,Class I Obese,1
+2019,10211,Normal,2
+2019,10212,Class I Obese,4
+2019,10212,Class III Obese,1
+2019,10213,Normal,1
+2019,10213,Overweight,1
+2019,10303,Class I Obese,2
+2019,10303,Overweight,2
+2019,10304,Class I Obese,1
+2019,10306,Normal,1
+2019,10306,Overweight,1
+2019,10307,Class I Obese,1
+2019,10308,Class I Obese,1
+2019,10308,Class III Obese,1
+2019,10402,Class I Obese,2
+2019,10402,Overweight,2
+2019,10403,Normal,2
+2019,10403,Overweight,2
+2019,10403,Underweight,1
+2019,10405,Overweight,1
+2019,10406,Class II Obese,2
+2019,10406,Normal,2
+2019,10406,Overweight,3
+2019,10502,Class I Obese,2
+2019,10502,Class II Obese,3
+2019,10502,Normal,1
+2019,10502,Overweight,2
+2019,10503,Class II Obese,2
+2019,10503,Normal,1
+2019,10503,Overweight,1
+2019,10504,Class I Obese,2
+2019,10504,Class II Obese,1
+2019,10504,Class III Obese,1
+2019,10603,Class I Obese,1
+2019,10603,Normal,1
+2019,10603,Overweight,1
+2019,10604,Class I Obese,1
+2019,10604,Class II Obese,2
+2019,10701,Class III Obese,1
+2019,10701,Overweight,2
+2019,10702,Class I Obese,1
+2019,10702,Overweight,1
+2019,10801,Class I Obese,1
+2019,10801,Normal,1
+2019,10901,Class I Obese,1
+2019,10901,Class II Obese,1
+2019,10901,Normal,3
+2019,10901,Overweight,2
+2019,10902,Class I Obese,1
+2019,11000,Class I Obese,4
+2019,11000,Class II Obese,1
+2019,11000,Class III Obese,1
+2019,11000,Normal,1
+2019,11000,Overweight,2
+2019,11100,Class I Obese,1
+2019,11100,Class II Obese,1
+2019,11100,Class III Obese,2
+2019,11100,Normal,1
+2019,11100,Overweight,1
+2019,11202,Class I Obese,1
+2019,11202,Class III Obese,1
+2019,11202,Normal,1
+2019,11202,Overweight,2
+2019,11402,Class II Obese,2
+2019,11402,Overweight,2
+2019,11550,Class I Obese,3
+2019,11550,Class II Obese,1
+2019,11550,Class III Obese,1
+2019,11550,Normal,2
+2019,11550,Overweight,1
+2019,11602,Class I Obese,3
+2019,11602,Class III Obese,1
+2019,11602,Overweight,2
+2019,11701,Class I Obese,4
+2019,11701,Normal,2
+2019,11701,Overweight,1
+2019,11702,Class I Obese,1
+2019,11702,Class II Obese,2
+2019,11702,Overweight,1
+2019,11709,Class I Obese,2
+2019,11709,Normal,1
+2019,11710,Class I Obese,1
+2019,11710,Overweight,1
+2019,11711,Class I Obese,1
+2019,11712,Class I Obese,1
+2019,11712,Overweight,1
+2019,11720,Class I Obese,4
+2019,11720,Class II Obese,2
+2019,11720,Normal,2
+2019,11720,Overweight,4
+2019,11721,Class I Obese,2
+2019,11721,Class II Obese,1
+2019,11723,Class I Obese,2
+2019,11724,Class I Obese,1
+2019,11724,Normal,1
+2019,11724,Overweight,1
+2019,11725,Class I Obese,1
+2019,11725,Normal,1
+2019,11726,Class I Obese,3
+2019,11726,Class II Obese,1
+2019,11726,Normal,3
+2019,11726,Overweight,2
+2019,11727,Class I Obese,2
+2019,11728,Class II Obese,1
+2019,11729,Class I Obese,5
+2019,11729,Class II Obese,1
+2019,11729,Overweight,1
+2019,11730,Class II Obese,1
+2019,11730,Overweight,1
+2019,11731,Class I Obese,4
+2019,11731,Class II Obese,2
+2019,11731,Normal,2
+2019,11733,Normal,1
+2019,11803,Class I Obese,2
+2019,11803,Class II Obese,1
+2019,11803,Class III Obese,1
+2019,11804,Class I Obese,1
+2019,11804,Normal,1
+2019,11804,Overweight,1
+2019,11805,Class II Obese,1
+2019,11805,Normal,1
+2019,11806,Class I Obese,1
+2019,11806,Class II Obese,6
+2019,11806,Overweight,1
+2019,11902,Class I Obese,1
+2019,11902,Normal,1
+2019,11902,Overweight,3
+2019,11903,Class I Obese,2
+2019,11903,Overweight,1
+2019,11904,Class I Obese,3
+2019,11904,Class II Obese,1
+2019,11904,Class III Obese,1
+2019,11904,Underweight,2
+2019,11951,Class I Obese,4
+2019,11951,Normal,1
+2019,11951,Overweight,1
+2019,12001,Class I Obese,1
+2019,12001,Class III Obese,1
+2019,12001,Overweight,1
+2019,12010,Class I Obese,1
+2019,12010,Class II Obese,2
+2019,12010,Normal,2
+2019,12010,Overweight,1
+2019,12014,Class I Obese,1
+2019,12014,Class II Obese,1
+2019,12014,Normal,1
+2019,12014,Overweight,1
+2019,12022,Overweight,1
+2019,12023,Class I Obese,1
+2019,12023,Class II Obese,1
+2019,12023,Normal,1
+2019,12024,Class I Obese,1
+2019,12024,Class II Obese,1
+2019,12024,Overweight,2
+2019,12027,Class I Obese,8
+2019,12027,Class II Obese,1
+2019,12027,Normal,2
+2019,12027,Overweight,3
+2019,12033,Class I Obese,1
+2019,12033,Class II Obese,2
+2019,12033,Class III Obese,1
+2019,12033,Normal,1
+2019,12033,Overweight,3
+2019,12034,Class I Obese,9
+2019,12034,Class II Obese,2
+2019,12034,Class III Obese,1
+2019,12034,Normal,3
+2019,12034,Overweight,2
+2019,12035,Class I Obese,8
+2019,12035,Class II Obese,1
+2019,12035,Class III Obese,2
+2019,12035,Normal,3
+2019,12035,Overweight,8
+2019,12036,Class I Obese,11
+2019,12036,Class II Obese,3
+2019,12036,Class III Obese,1
+2019,12036,Normal,9
+2019,12036,Overweight,8
+2019,12038,Class I Obese,1
+2019,12038,Normal,1
+2019,12039,Class I Obese,1
+2019,12039,Class II Obese,1
+2019,12041,Class I Obese,1
+2019,12041,Class II Obese,1
+2019,12041,Overweight,3
+2019,12042,Class I Obese,2
+2019,12042,Class II Obese,1
+2019,12042,Overweight,2
+2019,12043,Class III Obese,1
+2019,12043,Normal,1
+2019,12045,Class I Obese,2
+2019,12045,Normal,2
+2019,12045,Overweight,1
+2019,12046,Overweight,2
+2019,12047,Class II Obese,1
+2019,12047,Overweight,1
+2019,12048,Class I Obese,2
+2019,12048,Overweight,1
+2019,12049,Class I Obese,3
+2019,12049,Normal,1
+2019,12049,Overweight,1
+2019,12050,Class I Obese,2
+2019,12050,Normal,3
+2019,12050,Overweight,1
+2019,12050,Underweight,1
+2019,12051,Class II Obese,1
+2019,12051,Overweight,1
+2019,12052,Class I Obese,1
+2019,12052,Class II Obese,1
+2019,12053,Overweight,1
+2019,12054,Class I Obese,1
+2019,12054,Class II Obese,1
+2019,12054,Normal,2
+2019,12055,Class III Obese,1
+2019,12057,Class I Obese,1
+2019,12057,Class III Obese,1
+2019,12059,Normal,1
+2019,12060,Overweight,1
+2019,12101,Class I Obese,1
+2019,12101,Normal,1
+2019,12102,Overweight,1
+2019,12103,Class II Obese,1
+2019,12103,Normal,1
+2019,12103,Overweight,1
+2019,12104,Class I Obese,1
+2019,12201,Class I Obese,2
+2019,12201,Class II Obese,1
+2019,12201,Overweight,1
+2019,12202,Class I Obese,1
+2019,12202,Class III Obese,1
+2019,12202,Overweight,1
+2019,12203,Class I Obese,2
+2019,12203,Class II Obese,1
+2019,12203,Normal,2
+2019,12203,Overweight,4
+2019,12204,Class I Obese,1
+2019,12204,Overweight,1
+2019,12300,Overweight,2
+2019,12401,Overweight,1
+2019,12501,Class III Obese,1
+2019,12501,Normal,2
+2019,12501,Overweight,1
+2019,12505,Class I Obese,1
+2019,12505,Normal,3
+2019,12505,Overweight,1
+2019,12507,Class II Obese,2
+2019,12508,Class II Obese,1
+2019,12509,Class I Obese,1
+2019,12509,Normal,2
+2019,12510,Class I Obese,9
+2019,12510,Class II Obese,4
+2019,12510,Class III Obese,1
+2019,12510,Normal,5
+2019,12510,Overweight,9
+2019,12511,Overweight,1
+2019,12603,Class I Obese,1
+2019,12603,Normal,1
+2019,12603,Overweight,2
+2019,12607,Overweight,1
+2019,12608,Class I Obese,2
+2019,12608,Normal,1
+2019,12608,Overweight,1
+2019,12701,Class I Obese,4
+2019,12701,Class II Obese,2
+2019,12701,Class III Obese,1
+2019,12701,Normal,1
+2019,12701,Overweight,3
+2019,12705,Class I Obese,1
+2019,12705,Normal,1
+2019,12705,Overweight,1
+2019,12707,Class I Obese,8
+2019,12707,Class II Obese,4
+2019,12707,Class III Obese,1
+2019,12707,Normal,1
+2019,12707,Overweight,6
+2019,12708,Class III Obese,1
+2019,12708,Normal,1
+2019,12708,Overweight,1
+2019,12710,Class I Obese,4
+2019,12710,Normal,5
+2019,12710,Overweight,6
+2019,12800,Class I Obese,4
+2019,12800,Normal,2
+2019,12800,Overweight,5
+2019,12903,Class I Obese,2
+2019,12904,Class I Obese,1
+2019,12904,Class II Obese,1
+2019,12907,Class I Obese,1
+2019,13003,Class I Obese,1
+2019,13003,Class II Obese,2
+2019,13003,Normal,1
+2019,13003,Overweight,1
+2019,13005,Class I Obese,2
+2019,13005,Overweight,1
+2019,13201,Class I Obese,7
+2019,13201,Class II Obese,1
+2019,13201,Normal,3
+2019,13201,Overweight,2
+2019,13202,Class I Obese,11
+2019,13202,Class II Obese,2
+2019,13202,Class III Obese,1
+2019,13202,Normal,3
+2019,13202,Overweight,7
+2019,13205,Class I Obese,1
+2019,13205,Overweight,1
+2019,13207,Class II Obese,1
+2019,13207,Normal,1
+2019,13208,Normal,3
+2019,13210,Class I Obese,1
+2019,13210,Normal,1
+2019,13211,Class I Obese,4
+2019,13211,Class II Obese,1
+2019,13211,Normal,4
+2019,13211,Overweight,3
+2019,13212,Class I Obese,4
+2019,13212,Normal,1
+2019,13213,Class I Obese,2
+2019,13213,Normal,3
+2019,13213,Overweight,3
+2019,13306,Overweight,1
+2019,13401,Class II Obese,1
+2019,13402,Class I Obese,1
+2019,13402,Normal,2
+2019,13402,Overweight,5
+2019,13505,Class I Obese,1
+2019,13507,Class II Obese,1
+2019,13507,Overweight,1
+2019,13508,Class I Obese,1
+2019,13508,Normal,1
+2019,13508,Overweight,1
+2019,13601,Class I Obese,4
+2019,13601,Class II Obese,1
+2019,13601,Class III Obese,1
+2019,13601,Normal,1
+2019,13601,Overweight,5
+2019,13601,Underweight,1
+2019,13701,Class I Obese,10
+2019,13701,Class II Obese,1
+2019,13701,Class III Obese,3
+2019,13701,Normal,7
+2019,13701,Overweight,6
+2019,13702,Class I Obese,4
+2019,13702,Class II Obese,2
+2019,13702,Class III Obese,2
+2019,13702,Normal,3
+2019,13702,Overweight,3
+2019,13901,Class I Obese,13
+2019,13901,Class II Obese,5
+2019,13901,Class III Obese,1
+2019,13901,Normal,4
+2019,13901,Overweight,9
+2019,13904,Overweight,1
+2019,13905,Overweight,2
+2019,13907,Class I Obese,1
+2019,13907,Class II Obese,1
+2019,13907,Normal,1
+2019,13907,Overweight,1
+2019,13908,Class I Obese,5
+2019,13908,Class II Obese,3
+2019,13908,Overweight,5
+2019,13910,Normal,1
+2019,13911,Class I Obese,7
+2019,13911,Class II Obese,2
+2019,13911,Class III Obese,2
+2019,13911,Normal,1
+2019,13911,Overweight,3
+2019,14001,Class I Obese,9
+2019,14001,Class II Obese,5
+2019,14001,Normal,3
+2019,14001,Overweight,2
+2019,14006,Class I Obese,1
+2019,14007,Class I Obese,6
+2019,14007,Normal,4
+2019,14007,Overweight,3
+2019,14008,Class I Obese,1
+2019,14008,Normal,1
+2019,14009,Class I Obese,1
+2019,14009,Normal,1
+2019,14009,Overweight,1
+2019,14010,Overweight,2
+2019,14011,Class I Obese,5
+2019,14011,Class II Obese,1
+2019,14011,Class III Obese,4
+2019,14011,Normal,4
+2019,14011,Overweight,9
+2019,14012,Class I Obese,15
+2019,14012,Class II Obese,7
+2019,14012,Class III Obese,1
+2019,14012,Normal,7
+2019,14012,Overweight,11
+2019,14013,Class I Obese,3
+2019,14013,Class II Obese,5
+2019,14013,Class III Obese,3
+2019,14013,Normal,4
+2019,14013,Overweight,2
+2019,14107,Class I Obese,1
+2019,14107,Class III Obese,1
+2019,14107,Normal,1
+2019,14107,Overweight,1
+2019,14109,Class III Obese,1
+2019,14109,Overweight,1
+2019,14110,Class I Obese,1
+2019,14110,Overweight,2
+2019,14110,Underweight,1
+2019,14112,Class I Obese,1
+2019,14113,Overweight,2
+2019,14114,Class I Obese,2
+2019,14114,Class II Obese,1
+2019,14114,Normal,3
+2019,14114,Overweight,1
+2019,14115,Class I Obese,2
+2019,14116,Class I Obese,2
+2019,14116,Normal,1
+2019,14116,Overweight,1
+2019,14122,Class I Obese,4
+2019,14122,Overweight,5
+2019,14123,Normal,2
+2019,14123,Overweight,1
+2019,14125,Class I Obese,2
+2019,14125,Normal,2
+2019,14125,Overweight,2
+2019,14126,Class I Obese,1
+2019,14126,Normal,1
+2019,14127,Class II Obese,1
+2019,14128,Overweight,1
+2019,14129,Normal,2
+2019,14130,Class I Obese,1
+2019,14130,Normal,2
+2019,14130,Overweight,1
+2019,14131,Class I Obese,3
+2019,14131,Class II Obese,4
+2019,14131,Normal,8
+2019,14131,Overweight,4
+2019,14132,Class I Obese,1
+2019,14132,Overweight,1
+2019,14133,Class I Obese,4
+2019,14133,Overweight,1
+2019,14135,Class I Obese,2
+2019,14135,Overweight,3
+2019,14136,Class II Obese,1
+2019,14137,Class I Obese,1
+2019,14137,Overweight,1
+2019,14139,Class I Obese,2
+2019,14139,Class II Obese,1
+2019,14139,Class III Obese,1
+2019,14139,Normal,1
+2019,14140,Class I Obese,4
+2019,14140,Overweight,2
+2019,14204,Class I Obese,3
+2019,14204,Class II Obese,1
+2019,14204,Normal,1
+2019,14204,Overweight,1
+2019,14403,Class I Obese,7
+2019,14403,Class II Obese,4
+2019,14403,Class III Obese,1
+2019,14403,Normal,4
+2019,14403,Overweight,3
+2019,14404,Class II Obese,1
+2019,14404,Overweight,2
+2019,14405,Class I Obese,1
+2019,14405,Class II Obese,1
+2019,14405,Overweight,3
+2019,14406,Class I Obese,6
+2019,14406,Class II Obese,1
+2019,14406,Normal,2
+2019,14406,Overweight,5
+2019,14503,Class I Obese,1
+2019,14503,Class II Obese,2
+2019,14503,Class III Obese,1
+2019,14503,Normal,2
+2019,14503,Overweight,2
+2019,14504,Class II Obese,1
+2019,14505,Class I Obese,2
+2019,14506,Class I Obese,5
+2019,14506,Class II Obese,1
+2019,14506,Class III Obese,2
+2019,14506,Normal,2
+2019,14506,Overweight,3
+2019,14506,Underweight,2
+2019,14602,Class I Obese,7
+2019,14602,Class II Obese,3
+2019,14602,Normal,2
+2019,14602,Overweight,3
+2019,14604,Class I Obese,2
+2019,14604,Class II Obese,2
+2019,14604,Normal,1
+2019,14604,Overweight,2
+2019,15000,Class I Obese,7
+2019,15000,Class II Obese,2
+2019,15000,Overweight,3
+2019,15100,Class III Obese,1
+2019,15100,Overweight,1
+2019,15300,Normal,1
+2019,15400,Class I Obese,2
+2019,15400,Normal,1
+2019,15500,Class I Obese,1
+2019,15500,Overweight,1
+2019,15600,Class I Obese,2
+2019,15600,Class II Obese,1
+2019,15600,Normal,1
+2019,15700,Class I Obese,1
+2019,15700,Overweight,3
+2019,15900,Class I Obese,7
+2019,15900,Class III Obese,1
+2019,15900,Normal,1
+2019,15900,Overweight,2
+2019,30000,Overweight,1
+2019,30200,Class II Obese,1
+2019,30200,Normal,2
+2019,30200,Overweight,1
+2019,30400,Class II Obese,1
+2019,30500,Class I Obese,3
+2019,30500,Class II Obese,1
+2019,30600,Class I Obese,2
+2019,30600,Class II Obese,1
+2019,30600,Normal,1
+2019,30700,Class II Obese,1
+2019,30700,Overweight,1
+2019,30800,Class III Obese,1
+2019,30900,Class I Obese,3
+2019,30900,Overweight,1
+2019,31000,Class I Obese,2
+2019,31000,Overweight,1
+2019,31100,Class I Obese,3
+2019,31100,Class II Obese,4
+2019,31100,Normal,5
+2019,31100,Overweight,6
+2019,31200,Class I Obese,3
+2019,31200,Class II Obese,1
+2019,31300,Class I Obese,3
+2019,31300,Class III Obese,1
+2019,31300,Overweight,2
+2019,31400,Class I Obese,6
+2019,31400,Class II Obese,2
+2019,31400,Normal,2
+2019,60000,Class I Obese,5
+2019,60000,Class III Obese,1
+2019,60000,Normal,3
+2019,60000,Overweight,5
+2019,60100,Class I Obese,7
+2019,60100,Class II Obese,1
+2019,60200,Class I Obese,1
+2019,60200,Class II Obese,2
+2019,60200,Overweight,1
+2019,60400,Class I Obese,1
+2019,60400,Normal,1
+2019,60400,Overweight,1
+2019,60500,Class I Obese,13
+2019,60500,Class II Obese,6
+2019,60500,Class III Obese,1
+2019,60500,Normal,5
+2019,60500,Overweight,9
+2019,60600,Class I Obese,8
+2019,60600,Class II Obese,3
+2019,60600,Class III Obese,2
+2019,60600,Normal,6
+2019,60600,Overweight,9
+2019,60700,Overweight,3
+2019,60800,Class I Obese,5
+2019,60800,Normal,2
+2019,60800,Overweight,6
+2019,60900,Class I Obese,1
+2019,60900,Class II Obese,1
+2019,61200,Class II Obese,1
+2019,61200,Normal,1
+2019,61400,Class I Obese,1
+2019,61400,Normal,1
+2019,61400,Overweight,1
+2019,80000,Class I Obese,2
+2019,80000,Overweight,2
+2019,80100,Class I Obese,1
+2019,80100,Class II Obese,1
+2019,80100,Normal,1
+2019,80200,Class I Obese,4
+2019,80200,Class II Obese,1
+2019,80200,Class III Obese,1
+2019,80200,Normal,3
+2019,80200,Overweight,1
+2019,80300,Class I Obese,3
+2019,80300,Overweight,1
+2019,80400,Class I Obese,2
+2019,80400,Class II Obese,1
+2019,80400,Normal,1
+2019,80400,Overweight,4
+2019,80500,Class I Obese,3
+2019,80500,Class II Obese,2
+2019,80600,Class II Obese,1
+2019,80600,Normal,1
+2019,80700,Class I Obese,5
+2019,80700,Overweight,2
+2019,80800,Class I Obese,1
+2019,80800,Class III Obese,1
+2019,80900,Class I Obese,4
+2019,80900,Class III Obese,1
+2019,80900,Overweight,3
+2019,81000,Class I Obese,2
+2019,81000,Class III Obese,1
+2019,81000,Normal,1
+2019,81000,Overweight,3
+2019,81100,Normal,2
+2019,81100,Overweight,3
+2019,81200,Class I Obese,1
+2019,81200,Overweight,1
+2019,81300,Overweight,1
+2019,81400,Class I Obese,3
+2019,81400,Class II Obese,2
+2019,81400,Normal,3
+2019,81400,Overweight,4
+2019,81500,Class I Obese,2
+2019,81500,Overweight,1
+2019,81600,Class I Obese,3
+2019,81600,Normal,1
+2019,81600,Overweight,2
+2019,81700,Normal,2
+2019,81800,Class I Obese,2
+2019,81800,Normal,1
+2019,81900,Normal,2
+2019,82000,Class I Obese,1
+2019,82000,Class II Obese,1
+2019,82000,Overweight,2
+2019,82000,Underweight,1
+2019,82100,Class I Obese,2
+2019,82100,Class III Obese,1
+2019,82100,Normal,1
+2019,82200,Class II Obese,1
+2019,82200,Normal,1
+2019,82200,Overweight,2
+2019,82400,Class I Obese,1
+2019,82400,Class II Obese,1
+2019,82400,Normal,1
+2019,82400,Overweight,2
+2019,82500,Normal,1
+2019,82600,Class I Obese,2
+2019,82600,Overweight,1
+2019,82700,Class I Obese,1
+2019,82700,Class III Obese,1
+2019,82800,Class II Obese,1
+2019,82900,Overweight,1
+2019,83000,Class I Obese,3
+2019,83000,Normal,5
+2019,83000,Overweight,1
+2019,83100,Class I Obese,1
+2019,83100,Class III Obese,2
+2019,83100,Normal,1
+2019,83200,Class I Obese,3
+2019,83200,Class II Obese,2
+2019,83200,Overweight,3
+2019,83300,Class I Obese,1
+2019,83300,Overweight,1
+2019,83400,Class I Obese,5
+2019,83400,Normal,1
+2019,83500,Class I Obese,1
+2019,83500,Class III Obese,1
+2019,83500,Normal,1
+2019,83600,Class I Obese,4
+2019,83600,Overweight,1
+2019,83700,Class I Obese,2
+2019,83700,Class II Obese,1
+2019,83700,Normal,4
+2019,83700,Overweight,4
+2019,83800,Class I Obese,1
+2019,83800,Overweight,1
+2019,83900,Class I Obese,1
+2019,83900,Overweight,2
+2019,84200,Class I Obese,2
+2019,84200,Class III Obese,1
+2019,84400,Normal,1
+2019,84600,Class I Obese,1
+2019,84600,Overweight,2
+2019,84700,Class I Obese,1
+2019,84700,Overweight,3
+2019,84800,Class I Obese,1
+2019,84900,Class I Obese,3
+2019,85000,Class I Obese,1
+2019,85000,Class II Obese,2
+2019,85000,Class III Obese,1
+2019,85000,Overweight,1
+2019,85100,Class I Obese,2
+2019,85100,Class II Obese,1
+2019,85100,Overweight,1
+2019,85200,Class I Obese,2
+2019,85200,Class II Obese,1
+2019,85200,Normal,3
+2019,85200,Overweight,1
+2019,85300,Class I Obese,1
+2019,85300,Overweight,1
+2019,85400,Normal,1
+2019,85400,Overweight,2
+2019,85500,Class I Obese,1
+2019,85500,Class III Obese,1
+2019,85500,Overweight,2
+2019,85600,Class I Obese,1
+2019,85700,Class I Obese,1
+2019,85700,Normal,1
+2019,85800,Class I Obese,2
+2019,85800,Class III Obese,1
+2019,85800,Normal,1
+2019,85800,Overweight,1
+2019,85900,Class I Obese,3
+2019,85900,Class II Obese,1
+2019,85900,Class III Obese,1
+2019,85900,Overweight,3
+2019,86000,Class I Obese,1
+2019,86000,Overweight,2
+2019,86100,Class I Obese,2
+2019,86100,Class II Obese,1
+2019,86200,Class II Obese,1
+2019,86200,Overweight,2
+2019,86200,Underweight,1
+2019,86300,Class I Obese,1
+2019,86300,Class III Obese,1
+2019,86300,Normal,1
+2019,86300,Overweight,1
+2019,86400,Class I Obese,4
+2019,86400,Overweight,5
+2019,86500,Class I Obese,1
+2019,86500,Normal,1
+2019,86600,Class I Obese,2
+2019,86700,Class I Obese,1
+2019,86700,Overweight,3
+2019,86800,Normal,1
+2019,86900,Class I Obese,1
+2019,86900,Class II Obese,1
+2019,86900,Overweight,2
+2019,87000,Overweight,2
+2019,87100,Class II Obese,2
+2019,87100,Class III Obese,1
+2019,87200,Class I Obese,3
+2019,87200,Overweight,2
+2019,87300,Class II Obese,1
+2019,87300,Normal,1
+2019,87300,Overweight,3
+2019,961204,Class I Obese,4
+2019,961204,Class II Obese,2
+2019,961204,Normal,1
+2019,961204,Overweight,5
+2019,961206,Overweight,1
+2019,961208,Class I Obese,1
+2019,961208,Overweight,1
+2019,980000,Class I Obese,10
+2019,980000,Class II Obese,4
+2019,980000,Class III Obese,2
+2019,980000,Normal,3
+2019,980000,Overweight,10
+2019,980000,Underweight,1
+2019,980100,Class I Obese,1
+2019,980100,Normal,3
+2019,980100,Overweight,2
+2019,980400,Class II Obese,1
+2019,988700,Class I Obese,5
+2019,988700,Class II Obese,2
+2019,988700,Class III Obese,1
+2019,988700,Normal,5
+2019,988700,Overweight,6

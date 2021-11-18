@@ -1,0 +1,281 @@
+﻿DX_TYPE,DX,CONDITION
+10,J45,Asthma
+10,J45.2,Asthma
+10,J45.20,Asthma
+10,J45.21,Asthma
+10,J45.22,Asthma
+10,J45.3,Asthma
+10,J45.30,Asthma
+10,J45.31,Asthma
+10,J45.32,Asthma
+10,J45.4,Asthma
+10,J45.40,Asthma
+10,J45.41,Asthma
+10,J45.42,Asthma
+10,J45.5,Asthma
+10,J45.50,Asthma
+10,J45.51,Asthma
+10,J45.52,Asthma
+10,J45.9,Asthma
+10,J45.90,Asthma
+10,J45.901,Asthma
+10,J45.902,Asthma
+10,J45.909,Asthma
+10,J45.99,Asthma
+10,J45.990,Asthma
+10,J45.991,Asthma
+10,J45.998,Asthma
+09,493,Asthma
+09,493.01,Asthma
+09,493.02,Asthma
+09,493.1,Asthma
+09,493.11,Asthma
+09,493.12,Asthma
+09,493.2,Asthma
+09,493.21,Asthma
+09,493.22,Asthma
+09,493.8,Asthma
+09,493.81,Asthma
+09,493.82,Asthma
+09,493.9,Asthma
+09,493.91,Asthma
+09,493.92,Asthma
+SM,195967001,Asthma
+SM,266361008,Asthma
+SM,409663006,Asthma
+SM,424643009,Asthma
+SM,425969006,Asthma
+SM,426656000,Asthma
+SM,426979002,Asthma
+SM,427295004,Asthma
+SM,427679007,Asthma
+SM,707440005,Asthma
+SM,707444001,Asthma
+SM,707511009,Asthma
+SM,707512002,Asthma
+SM,707513007,Asthma
+SM,707979007,Asthma
+SM,707980005,Asthma
+SM,707981009,Asthma
+SM,708038006,Asthma
+SM,708090002,Asthma
+SM,708093000,Asthma
+SM,708094006,Asthma
+SM,708095007,Asthma
+SM,708096008,Asthma
+SM,733858005,Asthma
+SM,135171000119106,Asthma
+SM,135181000119109,Asthma
+10,E78.0,Hypercholesterolemia
+10,E78.00,Hypercholesterolemia
+10,E78.01,Hypercholesterolemia
+SM,267432004,Hypercholesterolemia
+SM,398036000,Hypercholesterolemia
+09,741,Spina bifida
+09,741.01,Spina bifida
+09,741.02,Spina bifida
+09,741.03,Spina bifida
+09,741.9,Spina bifida
+09,741.91,Spina bifida
+09,741.92,Spina bifida
+09,741.93,Spina bifida
+10,Q05,Spina bifida
+10,Q05.0,Spina bifida
+10,Q05.1,Spina bifida
+10,Q05.2,Spina bifida
+10,Q05.3,Spina bifida
+10,Q05.4,Spina bifida
+10,Q05.5,Spina bifida
+10,Q05.6,Spina bifida
+10,Q05.7,Spina bifida
+10,Q05.8,Spina bifida
+10,Q05.9,Spina bifida
+SM,67531005,Spina bifida
+SM,53318002,Spina bifida
+SM,203934001,Spina bifida
+SM,203935000,Spina bifida
+SM,203936004,Spina bifida
+SM,40130009,Spina bifida
+SM,204010001,Spina bifida
+SM,30620003,Spina bifida
+SM,77224008,Spina bifida
+SM,445307009,Spina bifida
+SM,32232003,Spina bifida
+09,277,Cystic fibrosis
+09,277.01,Cystic fibrosis
+09,277.02,Cystic fibrosis
+09,277.03,Cystic fibrosis
+09,277.09,Cystic fibrosis
+10,E84,Cystic fibrosis
+10,E84.0,Cystic fibrosis
+10,E84.1,Cystic fibrosis
+10,E84.11,Cystic fibrosis
+10,E84.19,Cystic fibrosis
+10,E84.8,Cystic fibrosis
+10,E84.9,Cystic fibrosis
+09,295,Schizophrenia
+09,295.01,Schizophrenia
+09,295.02,Schizophrenia
+09,295.03,Schizophrenia
+09,295.04,Schizophrenia
+09,295.05,Schizophrenia
+09,295.1,Schizophrenia
+09,295.11,Schizophrenia
+09,295.12,Schizophrenia
+09,295.13,Schizophrenia
+09,295.14,Schizophrenia
+09,295.15,Schizophrenia
+09,295.2,Schizophrenia
+09,292.2,Schizophrenia
+09,292.21,Schizophrenia
+09,292.22,Schizophrenia
+09,292.23,Schizophrenia
+09,292.24,Schizophrenia
+09,292.25,Schizophrenia
+09,295.3,Schizophrenia
+09,295.31,Schizophrenia
+09,295.32,Schizophrenia
+09,295.33,Schizophrenia
+09,295.34,Schizophrenia
+09,295.35,Schizophrenia
+09,295.4,Schizophrenia
+09,295.41,Schizophrenia
+09,295.42,Schizophrenia
+09,295.43,Schizophrenia
+09,295.44,Schizophrenia
+09,295.45,Schizophrenia
+09,295.5,Schizophrenia
+09,295.51,Schizophrenia
+09,295.52,Schizophrenia
+09,295.53,Schizophrenia
+09,295.54,Schizophrenia
+09,295.55,Schizophrenia
+09,295.6,Schizophrenia
+09,295.61,Schizophrenia
+09,295.62,Schizophrenia
+09,295.63,Schizophrenia
+09,295.64,Schizophrenia
+09,295.65,Schizophrenia
+09,295.7,Schizophrenia
+09,295.71,Schizophrenia
+09,295.72,Schizophrenia
+09,295.73,Schizophrenia
+09,295.74,Schizophrenia
+09,295.75,Schizophrenia
+09,295.8,Schizophrenia
+09,295.81,Schizophrenia
+09,295.82,Schizophrenia
+09,295.83,Schizophrenia
+09,295.84,Schizophrenia
+09,295.85,Schizophrenia
+09,295.9,Schizophrenia
+09,295.91,Schizophrenia
+09,295.92,Schizophrenia
+09,295.93,Schizophrenia
+09,295.94,Schizophrenia
+09,295.95,Schizophrenia
+10,F20,Schizophrenia
+10,F20.0,Schizophrenia
+10,F20.1,Schizophrenia
+10,F20.2,Schizophrenia
+10,F20.3,Schizophrenia
+10,F20.5,Schizophrenia
+10,F20.8,Schizophrenia
+10,F20.81,Schizophrenia
+10,F20.89,Schizophrenia
+10,F20.9,Schizophrenia
+SM,191526005,Schizophrenia
+SM,191527001,Schizophrenia
+SM,16990005,Schizophrenia
+SM,111482003,Schizophrenia
+SM,191531007,Schizophrenia
+SM,4926007,Schizophrenia
+SM,35252006,Schizophrenia
+SM,27387000,Schizophrenia
+SM,12939007,Schizophrenia
+SM,14291003,Schizophrenia
+SM,35218008,Schizophrenia
+SM,31373002,Schizophrenia
+SM,191542003,Schizophrenia
+SM,42868002,Schizophrenia
+SM,68995007,Schizophrenia
+SM,191547009,Schizophrenia
+SM,191548004,Schizophrenia
+SM,111483008,Schizophrenia
+SM,64905009,Schizophrenia
+SM,79866005,Schizophrenia
+SM,31658008,Schizophrenia
+SM,191554003,Schizophrenia
+SM,191555002,Schizophrenia
+SM,63181006,Schizophrenia
+SM,88975006,Schizophrenia
+SM,191559008,Schizophrenia
+SM,191561004,Schizophrenia
+SM,191562006,Schizophrenia
+SM,191563001,Schizophrenia
+SM,191564007,Schizophrenia
+SM,191565008,Schizophrenia
+SM,26025008,Schizophrenia
+SM,76566000,Schizophrenia
+SM,71103003,Schizophrenia
+SM,70814008,Schizophrenia
+SM,30336007,Schizophrenia
+SM,51133006,Schizophrenia
+SM,68890003,Schizophrenia
+SM,191569002,Schizophrenia
+SM,191570001,Schizophrenia
+SM,191571002,Schizophrenia
+SM,191572009,Schizophrenia
+SM,191574005,Schizophrenia
+SM,58214004,Schizophrenia
+SM,83746006,Schizophrenia
+SM,29599000,Schizophrenia
+SM,111484002,Schizophrenia
+09,282.6,Sickle-cell disease
+09,282.61,Sickle-cell disease
+09,282.62,Sickle-cell disease
+09,282.63,Sickle-cell disease
+09,282.64,Sickle-cell disease
+09,282.68,Sickle-cell disease
+09,282.69,Sickle-cell disease
+09,282.41,Sickle-cell disease
+09,282.42,Sickle-cell disease
+10,D57,Sickle-cell disease
+10,D57.0,Sickle-cell disease
+10,D57.00,Sickle-cell disease
+10,D57.01,Sickle-cell disease
+10,D57.02,Sickle-cell disease
+10,D57.1,Sickle-cell disease
+10,D57.2,Sickle-cell disease
+10,D57.20,Sickle-cell disease
+10,D57.21,Sickle-cell disease
+10,D57.211,Sickle-cell disease
+10,D57.212,Sickle-cell disease
+10,D57.219,Sickle-cell disease
+10,D57.4,Sickle-cell disease
+10,D57.40,Sickle-cell disease
+10,D57.41,Sickle-cell disease
+10,D57.411,Sickle-cell disease
+10,D57.412,Sickle-cell disease
+10,D57.419,Sickle-cell disease
+10,D57.8,Sickle-cell disease
+10,D57.80,Sickle-cell disease
+10,D57.81,Sickle-cell disease
+10,D57.811,Sickle-cell disease
+10,D57.812,Sickle-cell disease
+10,D57.819,Sickle-cell disease
+SM,417357006,Sickle-cell disease
+SM,416180004,Sickle-cell disease
+SM,417425009,Sickle-cell disease
+SM,417683006,Sickle-cell disease
+SM,417517009,Sickle-cell disease
+SM,417048006,Sickle-cell disease
+SM,416826005,Sickle-cell disease
+SM,127040003,Sickle-cell disease
+SM,444108000,Sickle-cell disease
+SM,35434009,Sickle-cell disease
+SM,36472007,Sickle-cell disease
+SM,417279003,Sickle-cell disease
+09,579,Celiac disease
+10,K90.0,Celiac disease
+SM,396331005,Celiac disease
