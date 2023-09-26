@@ -1,7 +1,11 @@
 # CODI Use Case Queries
-This repository contains source code for select use cases in the Clinical and Community Data Initiative (CODI), for both the Colorado and North Carolina CODI pilots.
+This repository contains source code (SAS) for select use cases in the North Carolina CODI pilot. In particular, it contains code for:
 
-Please see the Colorado and NorthCarolina subfolders for specifics on the included queries.
+* CODI Use Case 1 / Query 1 - What are the characteristics of the population served by each CODI-participating organization/program?
+* CODI Use Case 2 / Queries 2&3 - Is enrollment in a program associated with a change in health outcomes, such as BMI, HbA1c, or BP? 
+
+Each folder contains a work plan which describes requirements, set up and running.
+
 
 ## Notice
 
